@@ -41,7 +41,7 @@ A number of approaches have been outlined in the [approaches for directing fundi
 
 **Dedicated funding category**
 
-The potential issue with the above solutions is these solutions won't all be available in the very short term. The funding category of [nurturing ideas & teams](../../../funding-categories/nurturing-ideas-and-teams.md) has been made to help address the potential issues for newcomers or proposers with fewer resources being able to get access to funding.
+The potential issue with the above solutions is these solutions won't all be available in the very short term. The funding category of [nurturing ideas & teams](broken-reference) has been made to help address the potential issues for newcomers or proposers with fewer resources being able to get access to funding.
 
 
 

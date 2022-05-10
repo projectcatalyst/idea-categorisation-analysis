@@ -16,7 +16,7 @@ Consider the following funding categorisations:
 
 
 
-**Fund 8 Challenge settings** - From [fund 8 challenge settings](../background/previous-selected-challenges/)
+**Fund 8 Challenge settings** - From [fund 8 challenge settings](../challenge-settings/previous-selected-challenges/)
 
 * [Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/26433/about)
 * [Open Source Development Ecosystem](https://cardano.ideascale.com/c/campaigns/26434/about)
@@ -138,11 +138,11 @@ The following is a non exhaustive list of funding categorisation that can lead t
 **Misconceptions**
 
 * **"The challenge funding allocation is only 2% how could that be unfair?"** - Funding categorisation that results in any unfair proposal advantage or restrictions on being able to submit proposals would simply mean at least 2% of the total fund distribution is not egalitarian. Restrictive funding categorisation is not needed to help direct funding as there are many alternative[ approaches to direct funding](approaches-for-directing-funding.md).
-* **"There are twenty diverse funding categories how is that unfair?"** - To determine whether this categorisation is egalitarian you need to look at which ideas can and cannot be submitted and ones that may benefit more from the combination of these categories than others. If a group of ideas are excluded or one proposal type has a greater advantage over another the funding categorisation is not egalitarian. The main issue with a larger number of different categories for funding is the justification and budget weighting complexities that emerge which is outlined in the [funding allocation approaches](broad-vs-specific-categorisation.md). [Broad categories](../funding-categories/overview.md) are the easiest way to ensure that funding categorisation is fair and egalitarian.
+* **"There are twenty diverse funding categories how is that unfair?"** - To determine whether this categorisation is egalitarian you need to look at which ideas can and cannot be submitted and ones that may benefit more from the combination of these categories than others. If a group of ideas are excluded or one proposal type has a greater advantage over another the funding categorisation is not egalitarian. The main issue with a larger number of different categories for funding is the justification and budget weighting complexities that emerge which is outlined in the [funding allocation approaches](broad-vs-specific-categorisation.md). [Broad categories](broken-reference) are the easiest way to ensure that funding categorisation is fair and egalitarian.
 
 
 
 ### Summary
 
-* **Egalitarian funding categorisation** - Keep the categorisation stage of funding egalitarian by inviting to all forms of ideas and innovation with inclusive categories. Achieve this by using categorisation that is open to all forms of ideas. This is most easily achieved using [broad categories](../funding-categories/overview.md) however more specific and well thought out categories could also achieve the same outcome.
+* **Egalitarian funding categorisation** - Keep the categorisation stage of funding egalitarian by inviting to all forms of ideas and innovation with inclusive categories. Achieve this by using categorisation that is open to all forms of ideas. This is most easily achieved using [broad categories](broken-reference) however more specific and well thought out categories could also achieve the same outcome.
 * **Apply priorities, feedback and opinions above the categorisation stage** - The community can have the same conviction over priorities as they do currently using an egalitarian funding categorisation approach. The main difference is that the effort goes into reviewing the proposals submitted with feedback, data, opinions and use of community priority voting to help make well informed voting decisions. This gives innovation the maximum chance to reveal itself and gives everyone a fair chance of being considered even if that idea is considered lower priority to the ecosystem at that time.

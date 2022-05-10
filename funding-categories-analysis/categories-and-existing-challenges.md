@@ -154,7 +154,7 @@ Every existing challenge fits into the suggested broad funding categories. For t
 
 **Nurturing Ideas & Teams**
 
-This category is open to any idea from the community so all previous challenges could have proposals that fit into this category. The only constraint in the [Nurturing Ideas & Teams](../funding-categories/nurturing-ideas-and-teams.md) category is proposals have a small maximum budget so they can try out different ideas and form teams.
+This category is open to any idea from the community so all previous challenges could have proposals that fit into this category. The only constraint in the [Nurturing Ideas & Teams](broken-reference) category is proposals have a small maximum budget so they can try out different ideas and form teams.
 
 ****
 

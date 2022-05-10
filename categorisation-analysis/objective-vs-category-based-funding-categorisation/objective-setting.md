@@ -10,7 +10,7 @@ Objective setting involves the process of how objectives are defined, measured, 
 
 
 
-The [challenge setting process](../../background/challenge-setting-approach.md) used initially in Catalyst is an example approach that combines objective setting with the funding categorisation process. [Funding categories](broken-reference) as outlined in this documentation are an example approach that just focuses on funding categorisation and focussed around the types of proposal included.
+The [challenge setting process](../../challenge-settings/challenge-setting-approach.md) used initially in Catalyst is an example approach that combines objective setting with the funding categorisation process. [Funding categories](broken-reference) as outlined in this documentation are an example approach that just focuses on funding categorisation and focussed around the types of proposal included.
 
 
 

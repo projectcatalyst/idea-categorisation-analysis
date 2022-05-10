@@ -132,7 +132,7 @@ Using locations such as different countries or continents as funding categories.
 
 ### **Category combinations**
 
-Using a combination of the above approaches in a combined category approach. This is more similar to the current [challenge setting approach](../background/challenge-setting-approach.md). The intention would be to determine a more fixed list of categories to prevent the current bad incentives caused by
+Using a combination of the above approaches in a combined category approach. This is more similar to the current [challenge setting approach](../challenge-settings/challenge-setting-approach.md). The intention would be to determine a more fixed list of categories to prevent the current bad incentives caused by
 
 ****
 
@@ -178,7 +178,7 @@ Using a combination of the above approaches in a combined category approach. Thi
 * Locations add a lot of complexity around budget weighting, causing complexity through multiple split up proposals and also creates harder justification for how to decide which countries and areas to group together or keep separate as over 190 country categories would not be practical. Location based categorisation does not map well with most ecosystem tools and DApps that are built to be global.
 * Organisation functions could be effective at directing funding to more specific areas within Cardano and Catalyst however when those same ecosystems use the same categories it makes it harder to direct funding between them. The increase in budget weighting complexity is also a concern.
 * Category combinations make most areas more complex around justification, budget weighting and the governance surrounding it. The benefits of this approach of simpler categorisation are not clear making it a less attractive approach.
-* Ecosystem areas is the simplest categorisation approach and effectively allows the community to direct funding between Governance & Identity, Development & Node Operation, Products & Integrations and Community & Outreach efforts. Another reason ecosystem areas is an effective approach is that organisation functions can also be covered by complementary categories that fund contributors full time which are suggested in the [categories](../funding-categories/overview.md).
+* Ecosystem areas is the simplest categorisation approach and effectively allows the community to direct funding between Governance & Identity, Development & Node Operation, Products & Integrations and Community & Outreach efforts. Another reason ecosystem areas is an effective approach is that organisation functions can also be covered by complementary categories that fund contributors full time which are suggested in the [categories](broken-reference).
 
 ****
 

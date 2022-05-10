@@ -10,7 +10,7 @@ description: >-
 
 Should the Catalyst funding process use objective based funding categorisation that combines funding categorisation, [objectives setting](objective-setting.md) and [impact auditing](progress-and-impact-auditing.md)? Or alternatively should it use funding categories and have an [independent objective setting process](independent-objective-setting-process.md)?&#x20;
 
-The [challenge setting process](../../background/challenge-setting-approach.md) used initially in Catalyst is an example of objective based funding categorisation.
+The [challenge setting process](../../challenge-settings/challenge-setting-approach.md) used initially in Catalyst is an example of objective based funding categorisation.
 
 The seven [categories](broken-reference) suggested in this documentation are an example of using funding categories that would then benefit from having an [independent objective setting process](independent-objective-setting-process.md).
 
@@ -99,4 +99,4 @@ Category based funding categorisation is where proposal types are grouped togeth
 
 * Using categories focussed on focus areas or fulfilling a certain function means categorisation gets the benefits of being [recurring](../recurring-vs-changing-categorisation.md), [inclusive](../inclusive-vs-competitive-categorisation.md) and [broad](../broad-vs-specific-categorisation.md).
 * Categories can incorporate objective setting with auditability at the proposal level and achieve the same outcomes as objective based funding categorisation but without all the complexity of allowing categorisation to become changing, competitive and specific.
-* An [independent objective setting process](independent-objective-setting-process.md) along with category based funding categorisation offer an effective solution to the current issues faced by objective based funding categorisation such as the [challenge setting process](../../background/challenge-setting-approach.md).
+* An [independent objective setting process](independent-objective-setting-process.md) along with category based funding categorisation offer an effective solution to the current issues faced by objective based funding categorisation such as the [challenge setting process](../../challenge-settings/challenge-setting-approach.md).
