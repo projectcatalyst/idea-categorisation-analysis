@@ -32,16 +32,21 @@
 
 ## Categorisation Analysis
 
-* [Objective vs Category Based Funding Categorisation](categorisation-analysis/objective-vs-category-based-funding-categorisation/README.md)
-  * [Objective Setting](categorisation-analysis/objective-vs-category-based-funding-categorisation/objective-setting.md)
-  * [Progress & Impact Auditing](categorisation-analysis/objective-vs-category-based-funding-categorisation/progress-and-impact-auditing.md)
-  * [Independent Objective Setting Process](categorisation-analysis/objective-vs-category-based-funding-categorisation/independent-objective-setting-process.md)
 * [Egalitarian Funding Categorisation](categorisation-analysis/egalitarian-funding-categorisation.md)
 * [Approaches For Directing Funding](categorisation-analysis/approaches-for-directing-funding.md)
 * [Categorisation Approaches](categorisation-analysis/categorisation-approaches.md)
 * [Recurring vs Changing Categorisation](categorisation-analysis/recurring-vs-changing-categorisation.md)
 * [Inclusive vs Competitive Categorisation](categorisation-analysis/inclusive-vs-competitive-categorisation.md)
 * [Broad vs Specific Categorisation](categorisation-analysis/broad-vs-specific-categorisation.md)
+
+## Funding Categorisation & Objective Setting
+
+* [Objective Setting](funding-categorisation-and-objective-setting/objective-setting.md)
+* [Progress & Objective Auditing](funding-categorisation-and-objective-setting/progress-and-objective-auditing.md)
+* [Objective vs Category Based Funding Categorisation](funding-categorisation-and-objective-setting/objective-vs-category-based-funding-categorisation.md)
+* [Independent Objective Setting Process](funding-categorisation-and-objective-setting/independent-objective-setting-process.md)
+* [Objective Setting For Challenge Settings](funding-categorisation-and-objective-setting/objective-setting-for-challenge-settings.md)
+* [Objective Setting for Funding Categories](funding-categorisation-and-objective-setting/objective-setting-for-funding-categories.md)
 
 ## Challenge Settings
 

@@ -10,7 +10,7 @@ The objective setting process does not need to be tied to the funding categorisa
 
 
 
-If [category based funding categorisation](./) is used in Catalyst an independent objective setting process would be eventually needed proposals can specify which objectives they are addressing.  Having access to these objectives can offer an effective way to improve decision making for category budget weightings decisions based on the most voted on objectives.
+If [category based funding categorisation](objective-vs-category-based-funding-categorisation.md) is used in Catalyst an independent objective setting process would be eventually needed proposals can specify which objectives they are addressing.  Having access to these objectives can offer an effective way to improve decision making for category budget weightings decisions based on the most voted on objectives.
 
 
 

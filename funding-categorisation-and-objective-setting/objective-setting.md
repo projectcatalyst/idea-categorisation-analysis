@@ -10,7 +10,7 @@ Objective setting involves the process of how objectives are defined, measured, 
 
 
 
-The [challenge setting process](../../challenge-settings/challenge-setting-approach.md) used initially in Catalyst is an example approach that combines objective setting with the funding categorisation process. [Funding categories](broken-reference) as outlined in this documentation are an example approach that just focuses on funding categorisation and focussed around the types of proposal included.
+The [challenge setting process](../challenge-settings/challenge-setting-approach.md) used initially in Catalyst is an example approach that combines objective setting with the funding categorisation process. [Funding categories](broken-reference) as outlined in this documentation are an example approach that just focuses on funding categorisation and focussed around the types of proposal included.
 
 
 
@@ -83,6 +83,6 @@ Meeting objectives within some communities could involve being issued credential
 ### **Summary**
 
 * Defining, measuring and selecting objectives can be done independently from any considerations towards funding categorisation.
-* If financially incentivising objectives is most appropriate the trade offs between [objective vs category based funding categorisation](./) should be considered.
+* If financially incentivising objectives is most appropriate the trade offs between [objective vs category based funding categorisation](objective-vs-category-based-funding-categorisation.md) should be considered.
 * There are more ways than just financial incentives that can encourage people to support different objectives.
 * The objective setting process used in the Cardano community can function independently from the Catalyst funding categorisation process and the objectives data still imported and used.
