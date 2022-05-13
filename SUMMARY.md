@@ -52,3 +52,8 @@
 * [Challenge Setting Assessment Issues](challenge-settings/challenge-setting-assessment-issues.md)
 * [Previous Selected Challenges](challenge-settings/previous-selected-challenges/README.md)
   * [All Previous Challenge Settings](challenge-settings/previous-selected-challenges/all-previous-challenge-settings.md)
+
+## 🔗 Links
+
+* [Funding Categories](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/QQsRsN95MX1ihFh4Vffn/)
+* [All Documentation](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vfjkdYxpr0HB9rUDqH4r/)
