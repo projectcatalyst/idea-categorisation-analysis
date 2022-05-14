@@ -22,6 +22,8 @@ Using an [independent objective setting process](independent-objective-setting-p
 * **Inclusive** - Categories that group proposals by type can more easily be inclusive to all forms of idea and innovation. Funding categories have been designed to be suitable for being an inclusive form of funding categorisation.
 * **Broad** - Topic area and function focussed categorisation is well suited to offering broad categorisation that invites multiple proposal types. Categorisation could also be made more specific on what types are included however this comes at an increase cost of complexity around determining budget weighting for each categorisation and makes the categorisation less flexible to dynamic changes.
 
+
+
 **Advantages**
 
 * **Flexible** - Categories are flexible to changing objectives as the categorisation doesn’t specify what must proposals must focus on. This allows the community to update or add new objectives dynamically as they emerge and will help improve the speed in which proposals of higher priority can be identified and receive funding.
@@ -30,6 +32,8 @@ Using an [independent objective setting process](independent-objective-setting-p
 * **Efficient** - By using an [independent objective setting process](independent-objective-setting-process.md) the community can quickly submit and vote on different objectives in isolation and know that their action won’t cause any negative implications on the funding categorisation process. Allowing the community to do this at their own convenience with little friction makes the objective setting process more efficient for the end user.
 * **Less risky** - Having categories that allow for a mixture of proposal types with different competing objectives. This makes it less risky for situations where there are no proposals for a given objective or alternatively there is only a number of proposals that are of poor quality. Broad funding categories not focussed on objectives will reduce the risk of these situations.
 * **Healthy competition with maximum voter options** - It is easy for categories to be inclusive of all forms of idea and innovation. This means the voters can be given the maximum amount of choice and the broad categorisation will help create healthy competition between a number of different proposals.
+
+
 
 **Issues**
 
@@ -41,7 +45,7 @@ Using an [independent objective setting process](independent-objective-setting-p
 
 ![Independent objective setting process and funding categories](../.gitbook/assets/funding-categories-and-objectives.png)
 
-* **Dynamically changing objectives** - By separating out the objective setting process from funding categorisation it becomes easier to use broad categorisation that encourages a larger amount of proposals with different objectives. If the communities objectives suddenly change this separation of concerns allows the funding process to become more dynamic to changes because the funding categorisation is more flexible due to being broad and inclusive.
+* **Dynamically changing objectives** - By separating out the objective setting process from funding categorisation it becomes easier to use broad categorisation that encourages a larger amount of proposals with different objectives. If the communities objectives suddenly change this separation of concerns allows the funding process to become dynamic to these changing priorities because the funding categorisation is broad and inclusive.
 * **Multiple objectives** - As per the example above a single proposal can help to achieve multiple objectives which makes it clear on the intentions of the proposal outcomes.
-* **Proposer simplicity** - With funding categories the proposals are submitted into categorisations based on the proposal type or grouping. Proposers would also have the option to attach objectives to their proposals that come from the independent objective setting process.
+* **Proposer simplicity** - Funding categories make proposal submission simple as proposals predictably fit into one of the categories as they collectively are inclusive to all ideas and innovation. Proposers also have the option to attach objectives to their proposals that come from the independent objective setting process.
 * **Objective focus across categorisations** - Separating objectives from categorisation also means proposals can exist across any of the funding categories that try to tackle the objective with a different approach.
