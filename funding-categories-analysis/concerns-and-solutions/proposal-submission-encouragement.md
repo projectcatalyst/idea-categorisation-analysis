@@ -46,7 +46,7 @@ Using rapid funding mechanisms could be an effective way to fund proposals that 
 
 **Quadratic funding**
 
-[Quadratic funding](https://wtfisqf.com) can be an effective tool to more effectively distribute funding to projects or causes in a more democratic way. There is a need to solve the issues around [sybil resistance](https://en.wikipedia.org/wiki/Sybil\_attack) by including one or multiple ways for the voters to verify they are a person. Quadratic funding could be used to create added incentives for people to solve certain problems or improve certain areas of the ecosystem that could help create more call to actions to submit proposals.
+[Quadratic funding](https://wtfisqf.com/) can be an effective tool to more effectively distribute funding to projects or causes in a more democratic way. There is a need to solve the issues around [sybil resistance](https://en.wikipedia.org/wiki/Sybil\_attack) by including one or multiple ways for the voters to verify they are a person. Quadratic funding could be used to create added incentives for people to solve certain problems or improve certain areas of the ecosystem that could help create more call to actions to submit proposals.
 
 
 

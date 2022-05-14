@@ -1,10 +1,10 @@
 ---
 description: >-
-  Progress and objective based auditing and their implications with funding
+  Progress and outcome based auditing and their implications with funding
   categorisation
 ---
 
-# Progress & Objective Auditing
+# Progress & Outcome Auditing
 
 There are two main auditing types in the Catalyst funding process which can be considered against how they impact funding categorisation.
 
@@ -28,15 +28,15 @@ The funded proposer is responsible for submitting their progress updates. Full t
 
 
 
-### Objective auditing
+### Outcome auditing
 
-Objective auditing concerns whether the execution of a given funded proposal has met any the objectives set out by the community or set by the proposal team themselves. The community is looking to understand whether a funded proposal resulted in a positive impact and help push a certain objective forward in a positive direction.
+Outcome auditing concerns whether the execution of a given funded proposal has met any the objectives set out by the community or set by the proposal team themselves. The community is looking to understand whether a funded proposal resulted in a positive impact or that helped push a certain objective forward in a positive direction.
 
 
 
 **Relevance to funding categorisation**
 
-Objective auditing is highly relevant to funding categorisation. Funding categorisation deals with what proposal types can be submitted in the funding categorisation along with the budget that is made available to those proposal types. The funding that is available for certain proposal types will impact whether certain objectives can be met and what proposals the community will be able to audit against meeting those objectives.
+Outcome auditing is highly relevant to funding categorisation. Funding categorisation deals with what proposal types can be submitted in the funding categorisation along with the budget that is made available to those proposal types. The funding that is available for certain proposal types will impact whether certain objectives can be met and what proposals the community will be able to audit against meeting those objectives.
 
 
 
@@ -50,4 +50,4 @@ The funded proposer is responsible for recording any metrics or feedback that he
 
 * Guidance and processes are needed for the auditing of any proposal type surrounding their progress and execution. Progress auditing does not need to be tied to how funding categorisation decisions are made and how it is structured.
 * Funding categorisation needs to consider the impact on auditing around whether objectives are being met against the budget that has been distributed.
-* Auditing around objectives is an important consideration for funding categorisation however this does not mean that the auditing metrics must be attached to the funding categorisation itself. Instead it is just an acknowledgement they are interconnected.
+* Auditing around outcome is an important consideration for funding categorisation however this does not mean that the auditing metrics must be attached to the funding categorisation itself. Instead it is just an acknowledgement they are interconnected.

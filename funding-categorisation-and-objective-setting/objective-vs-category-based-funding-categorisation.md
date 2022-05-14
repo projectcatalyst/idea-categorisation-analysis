@@ -8,7 +8,7 @@ description: >-
 
 ![](../.gitbook/assets/objectives-vs-categories.png)
 
-Should the Catalyst funding process use objective based funding categorisation that combines funding categorisation, [objectives setting](objective-setting.md) and [impact auditing](progress-and-objective-auditing.md)? Or alternatively should it use funding categories and have an [independent objective setting process](independent-objective-setting-process.md)?&#x20;
+Should the Catalyst funding process use objective based funding categorisation that combines funding categorisation, [objectives setting](objective-setting.md) and [impact auditing](progress-and-outcome-auditing.md)? Or alternatively should it use funding categories and have an [independent objective setting process](independent-objective-setting-process.md)?&#x20;
 
 The [challenge setting process](../challenge-settings/challenge-setting-approach.md) used initially in Catalyst is an example of objective based funding categorisation.
 
