@@ -14,7 +14,7 @@ Egalitarian funding categorisation means ensuring no person or proposal has an u
 
 ### **Challenge settings**
 
-The challenge setting process is open to any categorisation meaning a mix of topic based categorisation or [objective based funding categorisation](../funding-categorisation-and-objective-setting/objective-vs-category-based-funding-categorisation.md) approaches can be included. This flexibility can often lead to categorisation that is not egalitarian. The following challenge setting types cause situations where funding categorisation is less egalitarian:
+The challenge setting process is open to any categorisation meaning a mix of [topic based categorisation or objective based funding categorisation](../funding-categorisation-and-objective-setting/objective-setting-with-challenge-settings.md) approaches can be included. This flexibility can often lead to categorisation that is not egalitarian. The following challenge setting types cause situations where funding categorisation is less egalitarian:
 
 * **Specific product focuses** - Categorisation focusing on one type of product such as 'insurance products' means those proposal types receive an unfair funding advantage over other product areas.
 * **Demographic focuses** - Certain demographic focuses such as poor, rich, young, old, etc would mean giving an unfair funding advantage over ideas from the excluded demographics.&#x20;

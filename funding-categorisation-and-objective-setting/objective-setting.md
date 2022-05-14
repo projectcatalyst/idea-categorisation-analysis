@@ -83,6 +83,6 @@ Meeting objectives within some communities could involve being issued credential
 ### **Summary**
 
 * Defining, measuring and selecting objectives can be done independently from any considerations towards funding categorisation.
-* If financially incentivising objectives is most appropriate the trade offs between [objective vs category based funding categorisation](objective-vs-category-based-funding-categorisation.md) should be considered.
+* If financially incentivising objectives is most appropriate the trade offs between [objective vs category based funding categorisation](broken-reference) should be considered.
 * There are more ways than just financial incentives that can encourage people to support different objectives.
 * The objective setting process used in the Cardano community can function independently from the Catalyst funding categorisation process and the objectives data still imported and used.

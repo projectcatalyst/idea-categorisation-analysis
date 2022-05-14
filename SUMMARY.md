@@ -43,9 +43,9 @@
 
 * [Objective Setting](funding-categorisation-and-objective-setting/objective-setting.md)
 * [Progress & Outcome Auditing](funding-categorisation-and-objective-setting/progress-and-outcome-auditing.md)
-* [Objective vs Category Based Funding Categorisation](funding-categorisation-and-objective-setting/objective-vs-category-based-funding-categorisation.md)
 * [Independent Objective Setting Process](funding-categorisation-and-objective-setting/independent-objective-setting-process.md)
 * [Objective Setting With Funding Categories](funding-categorisation-and-objective-setting/objective-setting-with-funding-categories.md)
+* [Objective Setting With Challenge Settings](funding-categorisation-and-objective-setting/objective-setting-with-challenge-settings.md)
 
 ## Challenge Settings
 
