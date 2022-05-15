@@ -8,7 +8,7 @@ description: >-
 
 Funding categories offer a number of advantages that highlight how they could effectively place the challenge setting process.
 
-
+![Funding Category Advantages](../.gitbook/assets/categories-benefits.png)
 
 * ****[**Efficient**](efficient.md) - Funding categories can be far more efficient than challenge setting as they remove the amount of effort needed to propose, assess and vote on categorisation changes.
 * ****[**Simple**](simple.md) **-** Funding categorisation does not need to be complex. Making funding categorisation complex, as it is with challenge settings, yields little benefit when compared to funding categories which use recurring, inclusive and broad categorisation. Effort is removed for justifying categorisations and drastically reduced for dealing with budget weighting decisions.&#x20;
