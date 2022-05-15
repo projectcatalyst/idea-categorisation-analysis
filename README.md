@@ -8,7 +8,7 @@ description: >-
 
 There are a number of issues with the current [challenge setting process](challenge-settings/challenge-setting-approach.md) used in the Catalyst ecosystem. In this documentation you will find a break down of the current process, analysis on different ways to do categorisation, which attributes are preferable and more effective and suggestions towards an improved funding categorisation approach.
 
-![Funding categories](<.gitbook/assets/category-proposal-coverage (1).png>)
+![Funding categories](.gitbook/assets/category-proposal-coverage.png)
 
 ### Contents
 
