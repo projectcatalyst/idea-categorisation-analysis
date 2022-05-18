@@ -16,15 +16,13 @@ To understand the implications of using certain funding categorisation approache
 
 
 
-****[**Fund 8 ⇒ Read about observations**](fund-8.md)****
+****[**Fund 9 ⇒ Read about observations**](fund-9.md)****
+
+![](../../.gitbook/assets/fund-9-funding-access.png)
+
+[**Fund 7 => Read about observations**](fund-8.md)****
 
 ![](../../.gitbook/assets/fund-8-funding-access.png)
-
-
-
-[**Fund 7 => Read about observations**](fund-7.md)****
-
-![](../../.gitbook/assets/fund-7-funding-access.png)
 
 **Data**
 

@@ -39,8 +39,8 @@
 * [Broad vs Specific Categorisation](categorisation-analysis/broad-vs-specific-categorisation.md)
 * [Proposal Types Funding Access History](categorisation-analysis/proposal-types-funding-access-history/README.md)
   * [Methodology](categorisation-analysis/proposal-types-funding-access-history/methodology.md)
+  * [Fund 9](categorisation-analysis/proposal-types-funding-access-history/fund-9.md)
   * [Fund 8](categorisation-analysis/proposal-types-funding-access-history/fund-8.md)
-  * [Fund 7](categorisation-analysis/proposal-types-funding-access-history/fund-7.md)
 
 ## Funding Categorisation & Objective Setting
 
