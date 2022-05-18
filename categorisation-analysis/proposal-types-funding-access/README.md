@@ -1,10 +1,10 @@
 ---
 description: >-
-  Exploring what access to funding each proposal type had in the different
-  funding rounds
+  Funding access for each proposals type in previous funding rounds and examples
+  of using funding categories
 ---
 
-# Proposal Types Funding Access History
+# Proposal Types Funding Access
 
 To understand the implications of using certain funding categorisation approaches one useful visualisation is for seeing what amount of funding was available to each of the proposal types in each funding round.
 
@@ -12,7 +12,7 @@ To understand the implications of using certain funding categorisation approache
 
 **=>** [**Methodology**](methodology.md) - Read the methodology for this analysis to understand how the percentages were derived.
 
-### Proposal type funding access per funding round
+### Proposal type funding access per funding round history
 
 
 
@@ -33,6 +33,30 @@ To understand the implications of using certain funding categorisation approache
 **Feedback**
 
 Please provide any feedback to for changes or improvements to the following Telegram group -[https://t.me/catalystfundingcategories](https://t.me/catalystfundingcategories)
+
+
+
+### Funding categories examples
+
+The usage of funding categories can achieve the same or better outcomes than the challenge setting approach but with far less complexity and also ensures that a wide range of proposals types always have access to potential funding.
+
+For the following examples we ignore Catalyst contributors and Cardano contributors as these are new funding models that aren't focussed on the normal proposal model. Just comparing proposal based categorisations make this a like for like comparison for the historical examples. Nurturing Ideas & Teams is also ignored as it accepts all forms of idea and innovation so is not important for this comparison.
+
+
+
+**Equally balanced example**
+
+This can be achieved by splitting funding access into four 25% allocations for the each of the main categories of community & outreach, products & integrations, governance & identity and development & node operation.
+
+![Equally balanced example](<../../.gitbook/assets/categories-funding-access-example (1).png>)
+
+
+
+**Development & Node Operation focussed**
+
+What if the community thought the Development & Node Operation needs more funding directed to that area as a priority and less on Community & Outreach and slightly less on Governance & Identity? To achieve this with funding categories the community would just need to vote on a higher percentage value for that categorisation and reduce the weighting in the other categories. For this example the community would only need to vote with four different values that add up to 100 to indicate the budget weighting preference. The aggregate of every voters budget weighting would determine the final weightings.
+
+![Development & Node Operation community focussed example](../../.gitbook/assets/categories-funding-access-example-development.png)
 
 
 

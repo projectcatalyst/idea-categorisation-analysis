@@ -37,10 +37,10 @@
 * [Recurring vs Changing Categorisation](categorisation-analysis/recurring-vs-changing-categorisation.md)
 * [Inclusive vs Competitive Categorisation](categorisation-analysis/inclusive-vs-competitive-categorisation.md)
 * [Broad vs Specific Categorisation](categorisation-analysis/broad-vs-specific-categorisation.md)
-* [Proposal Types Funding Access History](categorisation-analysis/proposal-types-funding-access-history/README.md)
-  * [Methodology](categorisation-analysis/proposal-types-funding-access-history/methodology.md)
-  * [Fund 9](categorisation-analysis/proposal-types-funding-access-history/fund-9.md)
-  * [Fund 8](categorisation-analysis/proposal-types-funding-access-history/fund-8.md)
+* [Proposal Types Funding Access](categorisation-analysis/proposal-types-funding-access/README.md)
+  * [Methodology](categorisation-analysis/proposal-types-funding-access/methodology.md)
+  * [Fund 9](categorisation-analysis/proposal-types-funding-access/fund-9.md)
+  * [Fund 8](categorisation-analysis/proposal-types-funding-access/fund-8.md)
 
 ## Funding Categorisation & Objective Setting
 
