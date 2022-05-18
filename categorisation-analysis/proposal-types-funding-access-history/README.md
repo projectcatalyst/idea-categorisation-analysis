@@ -20,7 +20,7 @@ To understand the implications of using certain funding categorisation approache
 
 ![](../../.gitbook/assets/fund-8-funding-access.png)
 
-****
+
 
 [**Fund 7 => Read about observations**](fund-7.md)****
 

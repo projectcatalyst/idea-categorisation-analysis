@@ -4,7 +4,7 @@ description: Fund 8 proposal types access to funding
 
 # Fund 8
 
-![Fund 8 - Proposal types funding access](../../.gitbook/assets/fund-8-funding-access.png)
+![Fund 8 - Proposal type funding access](../../.gitbook/assets/fund-8-funding-access.png)
 
 **Data**
 
