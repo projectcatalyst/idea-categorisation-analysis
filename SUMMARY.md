@@ -17,7 +17,6 @@
 
 * [Rapid Funding](funding-categories-analysis/rapid-funding.md)
 * [Categories & Existing Challenges](funding-categories-analysis/categories-and-existing-challenges.md)
-* [Historical Comparison Of Access To Funding](funding-categories-analysis/historical-comparison-of-access-to-funding.md)
 * [Concerns & Solutions](funding-categories-analysis/concerns-and-solutions/README.md)
   * [Increased Competition](funding-categories-analysis/concerns-and-solutions/increased-competition/README.md)
     * [Proposers With Fewer Resources Considerations](funding-categories-analysis/concerns-and-solutions/increased-competition/proposers-with-fewer-resources-considerations.md)
@@ -38,6 +37,10 @@
 * [Recurring vs Changing Categorisation](categorisation-analysis/recurring-vs-changing-categorisation.md)
 * [Inclusive vs Competitive Categorisation](categorisation-analysis/inclusive-vs-competitive-categorisation.md)
 * [Broad vs Specific Categorisation](categorisation-analysis/broad-vs-specific-categorisation.md)
+* [Proposal Types Funding Access History](categorisation-analysis/proposal-types-funding-access-history/README.md)
+  * [Methodology](categorisation-analysis/proposal-types-funding-access-history/methodology.md)
+  * [Fund 8](categorisation-analysis/proposal-types-funding-access-history/fund-8.md)
+  * [Fund 7](categorisation-analysis/proposal-types-funding-access-history/fund-7.md)
 
 ## Funding Categorisation & Objective Setting
 
