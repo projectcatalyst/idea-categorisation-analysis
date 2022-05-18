@@ -20,7 +20,9 @@ To understand the implications of using certain funding categorisation approache
 
 ![](../../.gitbook/assets/fund-9-funding-access.png)
 
-[**Fund 7 => Read about observations**](fund-8.md)****
+
+
+[**Fund 8 => Read about observations**](fund-8.md)****
 
 ![](../../.gitbook/assets/fund-8-funding-access.png)
 
@@ -48,15 +50,15 @@ For the following examples we ignore Catalyst contributors and Cardano contribut
 
 This can be achieved by splitting funding access into four 25% allocations for the each of the main categories of community & outreach, products & integrations, governance & identity and development & node operation.
 
-![Equally balanced example](<../../.gitbook/assets/categories-funding-access-example (1).png>)
+![](../../.gitbook/assets/categories-funding-access-example.png)
 
 
 
 **Development & Node Operation focussed**
 
-What if the community thought the Development & Node Operation categorisation of proposal types needs more funding directed to that area as a priority and less on Community & Outreach and slightly less on Governance & Identity? To achieve this with funding categories the community would just need to vote on a higher percentage value for that categorisation and reduce the weighting in the other categories. For this example the community would only need to vote with four different values that add up to 100 to indicate the budget weighting preference. The aggregate of every voters budget weighting would determine the final weightings.
+What if the community thought the Development & Node Operation categorisation of proposal types needs more funding directed to that area as a priority and less on Community & Outreach and slightly less on Governance & Identity? To achieve this with funding categories the community would just need to vote on a higher percentage value for the Development & Node Operation category and reduce the weighting in the other categories. For this example the community would only need to vote with four different values that add up to 100 to indicate the budget weighting preference. The aggregate of every voters budget weighting would determine the final weightings.
 
-![Development & Node Operation community focussed example](../../.gitbook/assets/categories-funding-access-example-development.png)
+![](../../.gitbook/assets/categories-funding-access-example-development.png)
 
 
 
