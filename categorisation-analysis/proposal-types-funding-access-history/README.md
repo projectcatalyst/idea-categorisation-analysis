@@ -54,7 +54,7 @@ This can be achieved by splitting funding access into four 25% allocations for t
 
 **Development & Node Operation focussed**
 
-What if the community thought the Development & Node Operation needs more funding directed to that area as a priority and less on Community & Outreach and slightly less on Governance & Identity? To achieve this with funding categories the community would just need to vote on a higher percentage value for that categorisation and reduce the weighting in the other categories. For this example the community would only need to vote with four different values that add up to 100 to indicate the budget weighting preference. The aggregate of every voters budget weighting would determine the final weightings.
+What if the community thought the Development & Node Operation categorisation of proposal types needs more funding directed to that area as a priority and less on Community & Outreach and slightly less on Governance & Identity? To achieve this with funding categories the community would just need to vote on a higher percentage value for that categorisation and reduce the weighting in the other categories. For this example the community would only need to vote with four different values that add up to 100 to indicate the budget weighting preference. The aggregate of every voters budget weighting would determine the final weightings.
 
 ![Development & Node Operation community focussed example](../../.gitbook/assets/categories-funding-access-example-development.png)
 
