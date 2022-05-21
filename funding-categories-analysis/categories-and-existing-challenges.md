@@ -117,7 +117,7 @@ Every existing challenge fits into the suggested broad funding categories. For t
 
 
 
-**Development & Node Operation**
+**Development & Infrastructure**
 
 * [Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about) (fund 8)
 * [Open Standards & Interoperability](https://cardano.ideascale.com/c/campaigns/26449/about) (fund 8)

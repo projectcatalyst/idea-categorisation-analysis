@@ -21,7 +21,7 @@ Using different defined areas of the ecosystem as funding categories.
 **Categories**
 
 * **Governance & Identity** - Proposals about maintaining, improving and supporting Catalyst as the governance solution for the Cardano treasury and improving governance and identity tools.
-* **Development & Node Operation** - Proposals for improving and maintaining the development ecosystem for Cardano and also supporting the operation of stake pool nodes.
+* **Development & Infrastructure** - Proposals for improving and maintaining the development ecosystem for Cardano and also supporting the operation of stake pool nodes.
 * **Products & Integrations** - Proposals for projects building on top of Cardano.
 * **Community & Outreach** - Proposals that do outreach to anyone outside of the community and for engagement within the community.
 
@@ -30,7 +30,7 @@ Using different defined areas of the ecosystem as funding categories.
 **How it might be used**
 
 * **Those helping improve Catalyst** - Use the Governance & Identity category.
-* **Those helping improve Cardano** - Use the Development & Node Operation category.
+* **Those helping improve Cardano** - Use the Development & Infrastructure category.
 * **Those building products & integrations** - Use the Products & Integrations category.
 * **Those doing outreach and building community** - Use the Community & Outreach category.
 
@@ -139,7 +139,7 @@ Using a combination of the above approaches in a combined category approach. Thi
 **Categories** - Example combination given using categories mentioned above
 
 * **Governance & Identity**
-* **Development & Node Operation**
+* **Development & Infrastructure**
 * **Africa**
 * **Latin America**
 * **Japan**
@@ -178,7 +178,7 @@ Using a combination of the above approaches in a combined category approach. Thi
 * Locations add a lot of complexity around budget weighting, causing complexity through multiple split up proposals and also creates harder justification for how to decide which countries and areas to group together or keep separate as over 190 country categories would not be practical. Location based categorisation does not map well with most ecosystem tools and DApps that are built to be global.
 * Organisation functions could be effective at directing funding to more specific areas within Cardano and Catalyst however when those same ecosystems use the same categories it makes it harder to direct funding between them. The increase in budget weighting complexity is also a concern.
 * Category combinations make most areas more complex around justification, budget weighting and the governance surrounding it. The benefits of this approach of simpler categorisation are not clear making it a less attractive approach.
-* Ecosystem areas is the simplest categorisation approach and effectively allows the community to direct funding between Governance & Identity, Development & Node Operation, Products & Integrations and Community & Outreach efforts. Another reason ecosystem areas is an effective approach is that organisation functions can also be covered by complementary categories that fund contributors full time which are suggested in the [categories](broken-reference).
+* Ecosystem areas is the simplest categorisation approach and effectively allows the community to direct funding between Governance & Identity, Development & Infrastructure, Products & Integrations and Community & Outreach efforts. Another reason ecosystem areas is an effective approach is that organisation functions can also be covered by complementary categories that fund contributors full time which are suggested in the [categories](broken-reference).
 
 ****
 

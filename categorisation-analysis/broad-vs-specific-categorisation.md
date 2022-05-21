@@ -16,7 +16,7 @@ Categorisation can be either broad and have a large amount of ideas and innovati
 
 
 
-**Broad categories -** Funding is allocated between a small number of broad categories with a larger budget weighting applied to each of them. Examples categories include Products & Integrations, Governance & Identity and Development & Node Operation.
+**Broad categories -** Funding is allocated between a small number of broad categories with a larger budget weighting applied to each of them. Examples categories include Products & Integrations, Governance & Identity and Development & Infrastructure.
 
 
 
