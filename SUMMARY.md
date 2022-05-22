@@ -42,13 +42,14 @@
   * [Fund 9](categorisation-analysis/proposal-types-funding-access-history/fund-9.md)
   * [Fund 8](categorisation-analysis/proposal-types-funding-access-history/fund-8.md)
 
-## Funding Categorisation & Objective Setting
+## Categorisation, Goals & Objectives
 
-* [Objective Setting](funding-categorisation-and-objective-setting/objective-setting.md)
-* [Progress & Outcome Auditing](funding-categorisation-and-objective-setting/progress-and-outcome-auditing.md)
-* [Independent Objective Setting Process](funding-categorisation-and-objective-setting/independent-objective-setting-process.md)
-* [Objective Setting With Funding Categories](funding-categorisation-and-objective-setting/objective-setting-with-funding-categories.md)
-* [Objective Setting With Challenge Settings](funding-categorisation-and-objective-setting/objective-setting-with-challenge-settings.md)
+* [Goals & Objectives](categorisation-goals-and-objectives/goals-and-objectives.md)
+* [Objective Setting](categorisation-goals-and-objectives/objective-setting.md)
+* [Progress & Outcome Auditing](categorisation-goals-and-objectives/progress-and-outcome-auditing.md)
+* [Independent Goal & Objective Setting Process](categorisation-goals-and-objectives/independent-goal-and-objective-setting-process.md)
+* [Goals & Objectives With Funding Categories](categorisation-goals-and-objectives/goals-and-objectives-with-funding-categories.md)
+* [Goals & Objectives With Challenge Settings](categorisation-goals-and-objectives/goals-and-objectives-with-challenge-settings.md)
 
 ## Challenge Settings
 

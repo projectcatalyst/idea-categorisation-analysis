@@ -1,8 +1,10 @@
 ---
-description: Exploring how objective setting is included in the usage of challenge settings
+description: >-
+  Exploring how goals and objective setting is included in the usage of
+  challenge settings
 ---
 
-# Objective Setting With Challenge Settings
+# Goals & Objectives With Challenge Settings
 
 Challenge settings allow funding categorisation to be focussed around anything. This means they could range from being broad through to specific proposal type grouping or objective focussed categorisations.
 
