@@ -48,8 +48,8 @@
 * [Objective Setting](categorisation-goals-and-objectives/objective-setting.md)
 * [Progress & Outcome Auditing](categorisation-goals-and-objectives/progress-and-outcome-auditing.md)
 * [Independent Goal & Objective Setting Process](categorisation-goals-and-objectives/independent-goal-and-objective-setting-process.md)
-* [Goals & Objectives With Funding Categories](categorisation-goals-and-objectives/goals-and-objectives-with-funding-categories.md)
 * [Goals & Objectives With Challenge Settings](categorisation-goals-and-objectives/goals-and-objectives-with-challenge-settings.md)
+* [Goals & Objectives With Funding Categories](categorisation-goals-and-objectives/goals-and-objectives-with-funding-categories.md)
 
 ## Challenge Settings
 

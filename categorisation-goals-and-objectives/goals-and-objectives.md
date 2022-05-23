@@ -54,7 +54,7 @@ Objectives are more specific and focussed which makes them a poor funding catego
 
 **Objective examples from previous funding categorisations**
 
-The following are examples of shorter term objectives within the developer ecosystem environment. These are better suited as objectives instead of funding categorisations so the funding is more flexible to different situations. Proposals would tag which of these objectives, if any, that they are trying to help achieve.
+More specific objectives are not well suited as funding categorisations as it makes the funding less flexible to different situations and less competitive. The following categorisations are examples that more closely resemble shorter term objectives:
 
 * [Building (on) Blockfrost](https://cardano.ideascale.com/c/idea/400929) (fund 9)
 * [Metadata Challenge](https://cardano.ideascale.com/c/campaigns/26107/about) (fund 6)
