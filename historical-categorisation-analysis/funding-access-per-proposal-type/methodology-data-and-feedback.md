@@ -2,21 +2,27 @@
 description: Documentation for how the funding access percentages were derived
 ---
 
-# Methodology
+# Methodology, Data & Feedback
+
+Funding is split between a number of categorisations that currently get defined each funding round. Each categorisation represents a percentage of the total funding amount available. Each proposal can have funding access ranging from none, partial through to full access within each of those categorisations.
 
 
 
-Funding is split between a number of categorisations that currently get defined each funding round. Each categorisation represents a percentage of the total funding amount available. Each proposal can have funding access ranging from none, partial through to full access within each of those categorisations.\
+### **Data**
+
+All the tagging data that was created for use in the images can be found here:
+
+[https://docs.google.com/spreadsheets/d/1XzlUhgkzE5NGBLa55wqJlgfm8YES3kJ6t5KgZAggtmE](https://docs.google.com/spreadsheets/d/1XzlUhgkzE5NGBLa55wqJlgfm8YES3kJ6t5KgZAggtmE/edit)
+
 ****
 
-**Data**
+### **Feedback**
 
-[https://docs.google.com/spreadsheets/d/1XzlUhgkzE5NGBLa55wqJlgfm8YES3kJ6t5KgZAggtmE](https://docs.google.com/spreadsheets/d/1XzlUhgkzE5NGBLa55wqJlgfm8YES3kJ6t5KgZAggtmE/edit?usp=sharing)\
+Please provide any feedback or suggest any changes or improvements in the Telegram group -[https://t.me/catalystfundingcategories](https://t.me/catalystfundingcategories)
+
 
 
 ### Approach
-
-****
 
 **1. Tag proposal types with a suitable colour depending on the access to funding**
 

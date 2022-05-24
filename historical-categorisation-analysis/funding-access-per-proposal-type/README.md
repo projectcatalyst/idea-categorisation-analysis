@@ -10,7 +10,7 @@ To understand the implications of using certain funding categorisation approache
 
 
 
-**=>** [**Methodology**](methodology.md) - Read the methodology for this analysis to understand how the percentages were derived.
+**=>** [**Methodology**](methodology-data-and-feedback.md) - Read the methodology for this analysis to understand how the percentages were derived.
 
 ### Funding access per proposal type each funding round
 
