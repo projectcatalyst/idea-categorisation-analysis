@@ -41,7 +41,7 @@
 ## Historical Categorisation Analysis
 
 * [Funding Access Per Proposal Type](historical-categorisation-analysis/funding-access-per-proposal-type/README.md)
-  * [Methodology, Data & Feedback](historical-categorisation-analysis/funding-access-per-proposal-type/methodology-data-and-feedback.md)
+  * [Methodology, Data & Feedback](historical-categorisation-analysis/funding-access-per-proposal-type/methodology.md)
   * [Fund 9](historical-categorisation-analysis/funding-access-per-proposal-type/fund-9.md)
   * [Fund 8](historical-categorisation-analysis/funding-access-per-proposal-type/fund-8.md)
 * [Categories & Previous Categorisations](historical-categorisation-analysis/categories-and-previous-categorisations.md)

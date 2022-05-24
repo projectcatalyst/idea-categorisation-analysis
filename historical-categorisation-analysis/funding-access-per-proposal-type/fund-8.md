@@ -4,23 +4,22 @@ description: Fund 8 proposal types access to funding
 
 # Fund 8
 
+### Funding access per proposal type
+
 ![Fund 8 - Proposal types funding access](../../.gitbook/assets/fund-8-funding-access.png)
 
-**Data**
+### **Funding categories equivalent**
 
-****[https://docs.google.com/spreadsheets/d/1XzlUhgkzE5NGBLa55wqJlgfm8YES3kJ6t5KgZAggtmE](https://docs.google.com/spreadsheets/d/1XzlUhgkzE5NGBLa55wqJlgfm8YES3kJ6t5KgZAggtmE/edit)
+After reviewing the [data covered in the methodology](methodology.md) for fund 8 a similar funding categorisation outcome could have been achieved with funding categories as an alternative categorisation approach by applying the following budget weightings:
 
-****
-
-**Feedback**
-
-Please provide any feedback to for changes or improvements to the following Telegram group -[https://t.me/catalystfundingcategories](https://t.me/catalystfundingcategories)
+* **Community & Outreach** - 14%
+* **Products & Integrations** - 32%
+* **Governance & Identity** - 23%
+* **Development & Infrastructure** - 31%
 
 
 
 ### Observations
-
-
 
 **Complexity from number of categorisations**
 

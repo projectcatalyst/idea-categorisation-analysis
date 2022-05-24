@@ -8,33 +8,27 @@ description: >-
 
 To understand the implications of using certain funding categorisation approaches one useful visualisation is for seeing what amount of funding was available to each of the proposal types in each funding round.
 
+{% content-ref url="methodology.md" %}
+[methodology.md](methodology.md)
+{% endcontent-ref %}
 
-
-**=>** [**Methodology**](methodology-data-and-feedback.md) - Read the methodology for this analysis to understand how the percentages were derived.
+****
 
 ### Funding access per proposal type each funding round
 
+All of the following examples have a dedicated fund page that include observations on the categorisation for that funding round along with a comparison  with how a roughly equivalent categorisation outcome could have been achieved using funding categories.
 
 
-****[**Fund 9 ⇒ Read about observations**](fund-9.md)****
+
+****[**Fund 9**](fund-9.md)
 
 ![](../../.gitbook/assets/fund-9-funding-access.png)
 
 
 
-[**Fund 8 => Read about observations**](fund-8.md)****
+****[**Fund 8**](fund-8.md)
 
 ![](../../.gitbook/assets/fund-8-funding-access.png)
-
-**Data**
-
-****[https://docs.google.com/spreadsheets/d/1XzlUhgkzE5NGBLa55wqJlgfm8YES3kJ6t5KgZAggtmE](https://docs.google.com/spreadsheets/d/1XzlUhgkzE5NGBLa55wqJlgfm8YES3kJ6t5KgZAggtmE/edit)
-
-****
-
-**Feedback**
-
-Please provide any feedback to for changes or improvements to the following Telegram group -[https://t.me/catalystfundingcategories](https://t.me/catalystfundingcategories)
 
 
 
@@ -63,8 +57,6 @@ What if the community thought the Development & Infrastructure categorisation of
 
 
 ### Analysis
-
-
 
 **Higher complexity from overlapping categorisations**
 
