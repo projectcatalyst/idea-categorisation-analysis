@@ -16,6 +16,7 @@
 ## Funding Categories Analysis
 
 * [Rapid Funding](funding-categories-analysis/rapid-funding.md)
+* [Purpose Of Nurturing Ideas & Team Category](funding-categories-analysis/purpose-of-nurturing-ideas-and-team-category.md)
 * [Categories & Existing Challenges](funding-categories-analysis/categories-and-existing-challenges.md)
 * [Concerns & Solutions](funding-categories-analysis/concerns-and-solutions/README.md)
   * [Increased Competition](funding-categories-analysis/concerns-and-solutions/increased-competition/README.md)
@@ -44,12 +45,12 @@
 
 ## Community Goals & Objectives
 
-* [Goals & Objectives](community-goals-and-objectives/goals-and-objectives.md)
-* [Objective Setting](community-goals-and-objectives/objective-setting.md)
-* [Progress & Outcome Auditing](community-goals-and-objectives/progress-and-outcome-auditing.md)
-* [Independent Goal & Objective Setting Process](community-goals-and-objectives/independent-goal-and-objective-setting-process.md)
-* [Goals & Objectives With Challenge Settings](community-goals-and-objectives/goals-and-objectives-with-challenge-settings.md)
-* [Goals & Objectives With Funding Categories](community-goals-and-objectives/goals-and-objectives-with-funding-categories.md)
+* [Goals & Objectives](categorisation-goals-and-objectives/goals-and-objectives.md)
+* [Objective Setting](categorisation-goals-and-objectives/objective-setting.md)
+* [Progress & Outcome Auditing](categorisation-goals-and-objectives/progress-and-outcome-auditing.md)
+* [Independent Goal & Objective Setting Process](categorisation-goals-and-objectives/independent-goal-and-objective-setting-process.md)
+* [Goals & Objectives With Challenge Settings](categorisation-goals-and-objectives/goals-and-objectives-with-challenge-settings.md)
+* [Goals & Objectives With Funding Categories](categorisation-goals-and-objectives/goals-and-objectives-with-funding-categories.md)
 * [Integrating Goals & Objectives Into Voting](community-goals-and-objectives/integrating-goals-and-objectives-into-voting.md)
 
 ## Challenge Settings
