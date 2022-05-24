@@ -24,7 +24,7 @@ Please provide any feedback to for changes or improvements to the following Tele
 
 **Repeated categorisations**
 
-One issue for fund 9 was the inclusion of a repeated categorisation with a different budget weighting. The issue was raised during the process that this outcome could occur however the repeated categorisation couldn’t be removed after assessment had started. Although this problem can be fixed in the process it does highlight the importance of democratic budget weighting votes to determine the outcome of how much funding is allocated to certain categorisations. Currently challenge settings do not do this as they give unilateral control of this decision to the person or team who submits the challenge setting.
+One issue for fund 9 was the inclusion of a repeated categorisation with a different budget weighting. The issue was raised during the process that this outcome could occur however the repeated categorisation couldn’t be removed after assessment had started. Although this problem can be fixed in the process it does highlight the importance of democratic budget weighting votes to determine the outcome of how much funding is allocated to certain categorisations. Currently challenge settings do not do this as they give unilateral control of the budget weighting decision to the person or team who submit the challenge setting.
 
 
 
