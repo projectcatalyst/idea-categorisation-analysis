@@ -42,14 +42,15 @@
   * [Fund 9](categorisation-analysis/proposal-types-funding-access-history/fund-9.md)
   * [Fund 8](categorisation-analysis/proposal-types-funding-access-history/fund-8.md)
 
-## Categorisation, Goals & Objectives
+## Community Goals & Objectives
 
-* [Goals & Objectives](categorisation-goals-and-objectives/goals-and-objectives.md)
-* [Objective Setting](categorisation-goals-and-objectives/objective-setting.md)
-* [Progress & Outcome Auditing](categorisation-goals-and-objectives/progress-and-outcome-auditing.md)
-* [Independent Goal & Objective Setting Process](categorisation-goals-and-objectives/independent-goal-and-objective-setting-process.md)
-* [Goals & Objectives With Challenge Settings](categorisation-goals-and-objectives/goals-and-objectives-with-challenge-settings.md)
-* [Goals & Objectives With Funding Categories](categorisation-goals-and-objectives/goals-and-objectives-with-funding-categories.md)
+* [Goals & Objectives](community-goals-and-objectives/goals-and-objectives.md)
+* [Objective Setting](community-goals-and-objectives/objective-setting.md)
+* [Progress & Outcome Auditing](community-goals-and-objectives/progress-and-outcome-auditing.md)
+* [Independent Goal & Objective Setting Process](community-goals-and-objectives/independent-goal-and-objective-setting-process.md)
+* [Goals & Objectives With Challenge Settings](community-goals-and-objectives/goals-and-objectives-with-challenge-settings.md)
+* [Goals & Objectives With Funding Categories](community-goals-and-objectives/goals-and-objectives-with-funding-categories.md)
+* [Integrating Goals & Objectives Into Voting](community-goals-and-objectives/integrating-goals-and-objectives-into-voting.md)
 
 ## Challenge Settings
 
