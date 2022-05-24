@@ -4,7 +4,7 @@ description: >-
   of using funding categories
 ---
 
-# Proposal Types Funding Access
+# Funding Access Per Proposal Type
 
 To understand the implications of using certain funding categorisation approaches one useful visualisation is for seeing what amount of funding was available to each of the proposal types in each funding round.
 
@@ -12,7 +12,7 @@ To understand the implications of using certain funding categorisation approache
 
 **=>** [**Methodology**](methodology.md) - Read the methodology for this analysis to understand how the percentages were derived.
 
-### Proposal type funding access per funding round history
+### Funding access per proposal type each funding round
 
 
 

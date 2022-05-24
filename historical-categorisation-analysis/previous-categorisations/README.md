@@ -1,10 +1,14 @@
 ---
 description: >-
-  List of all the previous challenge settings that were selected for each
+  List of all the previous funding categorisations that were selected for each
   funding round in Catalyst
 ---
 
-# Previous Selected Challenges
+# Previous Categorisations
+
+The following historical categorisations were created using the challenge setting process.
+
+****
 
 **Fund 8**
 

@@ -17,7 +17,8 @@
 
 * [Rapid Funding](funding-categories-analysis/rapid-funding.md)
 * [Purpose Of Nurturing Ideas & Team Category](funding-categories-analysis/purpose-of-nurturing-ideas-and-team-category.md)
-* [Categories & Existing Challenges](funding-categories-analysis/categories-and-existing-challenges.md)
+* [FAQs](funding-categories-analysis/faqs/README.md)
+  * [Using Categories & Challenges](funding-categories-analysis/faqs/using-categories-and-challenges.md)
 * [Concerns & Solutions](funding-categories-analysis/concerns-and-solutions/README.md)
   * [Increased Competition](funding-categories-analysis/concerns-and-solutions/increased-competition/README.md)
     * [Proposers With Fewer Resources Considerations](funding-categories-analysis/concerns-and-solutions/increased-competition/proposers-with-fewer-resources-considerations.md)
@@ -27,8 +28,6 @@
   * [Directing Funding](funding-categories-analysis/concerns-and-solutions/directing-funding.md)
   * [Verifiability](funding-categories-analysis/concerns-and-solutions/verifiability.md)
   * [Less Specialised Challenge Teams](funding-categories-analysis/concerns-and-solutions/less-specialised-challenge-teams.md)
-* [FAQs](funding-categories-analysis/faqs/README.md)
-  * [Using Categories & Challenges](funding-categories-analysis/faqs/using-categories-and-challenges.md)
 
 ## Categorisation Analysis
 
@@ -38,10 +37,16 @@
 * [Recurring vs Changing Categorisation](categorisation-analysis/recurring-vs-changing-categorisation.md)
 * [Inclusive vs Competitive Categorisation](categorisation-analysis/inclusive-vs-competitive-categorisation.md)
 * [Broad vs Specific Categorisation](categorisation-analysis/broad-vs-specific-categorisation.md)
-* [Proposal Types Funding Access](categorisation-analysis/proposal-types-funding-access-history/README.md)
-  * [Methodology](categorisation-analysis/proposal-types-funding-access-history/methodology.md)
-  * [Fund 9](categorisation-analysis/proposal-types-funding-access-history/fund-9.md)
-  * [Fund 8](categorisation-analysis/proposal-types-funding-access-history/fund-8.md)
+
+## Historical Categorisation Analysis
+
+* [Funding Access Per Proposal Type](historical-categorisation-analysis/funding-access-per-proposal-type/README.md)
+  * [Methodology](historical-categorisation-analysis/funding-access-per-proposal-type/methodology.md)
+  * [Fund 9](historical-categorisation-analysis/funding-access-per-proposal-type/fund-9.md)
+  * [Fund 8](historical-categorisation-analysis/funding-access-per-proposal-type/fund-8.md)
+* [Categories & Previous Categorisations](historical-categorisation-analysis/categories-and-previous-categorisations.md)
+* [Previous Categorisations](historical-categorisation-analysis/previous-categorisations/README.md)
+  * [All Previous Challenge Settings](historical-categorisation-analysis/previous-categorisations/all-previous-challenge-settings.md)
 
 ## Community Goals & Objectives
 
@@ -57,8 +62,6 @@
 
 * [Challenge Setting Approach](challenge-settings/challenge-setting-approach.md)
 * [Challenge Setting Assessment Issues](challenge-settings/challenge-setting-assessment-issues.md)
-* [Previous Selected Challenges](challenge-settings/previous-selected-challenges/README.md)
-  * [All Previous Challenge Settings](challenge-settings/previous-selected-challenges/all-previous-challenge-settings.md)
 
 ## 🔗 Links
 

@@ -1,12 +1,12 @@
 ---
 description: >-
-  How do the existing selected challenges fit into the suggested new funding
+  How do the previous categorisations fit into the new suggested funding
   categories?
 ---
 
-# Categories & Existing Challenges
+# Categories & Previous Categorisations
 
-Every existing challenge fits into the suggested broad funding categories. For these categories there are a number of challenges that would have proposals that fit into multiple categories. One example is the 'Grow Africa, Grow Cardano' challenge where proposals for that challenge could be applicable to nearly all of the categories defined below.
+Every existing previous funding categorisation created through challenge setting fits into the funding categories approach. There are a number of challenges that would have proposals that fit into multiple categories. One example is the 'Grow Africa, Grow Cardano' challenge where proposals for that challenge could be applicable to nearly all of the categories defined below.
 
 
 
