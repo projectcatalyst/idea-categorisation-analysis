@@ -6,7 +6,7 @@ description: Fund 8 proposal types access to funding
 
 ### Funding access per proposal type
 
-![Fund 8 - Proposal types funding access](../../.gitbook/assets/fund-8-funding-access.png)
+![](../../.gitbook/assets/fund-8-funding-access.png)
 
 ### **Funding categories equivalent**
 

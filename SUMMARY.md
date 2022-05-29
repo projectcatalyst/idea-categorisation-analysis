@@ -44,6 +44,7 @@
   * [Methodology, Data & Feedback](historical-categorisation-analysis/funding-access-per-proposal-type/methodology.md)
   * [Fund 9](historical-categorisation-analysis/funding-access-per-proposal-type/fund-9.md)
   * [Fund 8](historical-categorisation-analysis/funding-access-per-proposal-type/fund-8.md)
+  * [Fund 7](historical-categorisation-analysis/funding-access-per-proposal-type/fund-7.md)
 * [Categories & Previous Categorisations](historical-categorisation-analysis/categories-and-previous-categorisations.md)
 * [Previous Categorisations](historical-categorisation-analysis/previous-categorisations/README.md)
   * [All Previous Challenge Settings](historical-categorisation-analysis/previous-categorisations/all-previous-challenge-settings.md)

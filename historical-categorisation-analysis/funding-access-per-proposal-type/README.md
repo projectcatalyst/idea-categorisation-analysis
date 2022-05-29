@@ -24,13 +24,13 @@ All of the following examples have a dedicated fund page that include observatio
 
 ![](../../.gitbook/assets/fund-9-funding-access.png)
 
-
-
 ****[**Fund 8**](fund-8.md)
 
 ![](../../.gitbook/assets/fund-8-funding-access.png)
 
+****[**Fund 7**](fund-7.md)
 
+![](../../.gitbook/assets/fund-7-funding-access.png)
 
 ### Funding categories examples
 
@@ -46,15 +46,11 @@ This can be achieved by splitting funding access into four 25% allocations for t
 
 ![](../../.gitbook/assets/categories-funding-access-example.png)
 
-
-
 **Development & Infrastructure focussed**
 
 What if the community thought the Development & Infrastructure categorisation of proposal types needs more funding directed to that area as a priority and less on Community & Outreach and slightly less on Governance & Identity? To achieve this with funding categories the community would just need to vote on a higher percentage value for the Development & Infrastructure category and reduce the weighting in the other categories. For this example the community would only need to vote with four different values that add up to 100 to indicate the budget weighting preference. The aggregate of every voters budget weighting would determine the final weightings.
 
 ![](../../.gitbook/assets/categories-funding-access-example-development.png)
-
-
 
 ### Analysis
 
