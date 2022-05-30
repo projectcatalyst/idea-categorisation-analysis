@@ -1,16 +1,16 @@
 ---
-description: Fund 9 proposal types access to funding
+description: Fund 9 funding access for different focus areas
 ---
 
 # Fund 9
 
-### Funding access per proposal type
+### Funding access for different focus areas
 
-![](../../.gitbook/assets/fund-9-funding-access.png)
+![](<../../.gitbook/assets/fund-9-funding-access (2).png>)
 
 ### **Funding categories equivalent**
 
-After reviewing the [data covered in the methodology](methodology.md) for fund 9 a similar funding categorisation outcome could have been achieved with funding categories as an alternative categorisation approach by applying the following budget weightings:
+After reviewing the [data covered in the methodology](methodology-data-and-feedback.md) for fund 9 a similar funding categorisation outcome could have been achieved with funding categories as an alternative categorisation approach by applying the following budget weightings:
 
 * **Community & Outreach** - 5%
 * **Products & Integrations** - 70%

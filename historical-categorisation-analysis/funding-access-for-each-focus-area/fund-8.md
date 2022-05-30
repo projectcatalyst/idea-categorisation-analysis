@@ -1,16 +1,16 @@
 ---
-description: Fund 8 proposal types access to funding
+description: Fund 8 funding access for different focus areas
 ---
 
 # Fund 8
 
-### Funding access per proposal type
+### Funding access for different focus areas
 
-![](../../.gitbook/assets/fund-8-funding-access.png)
+![](<../../.gitbook/assets/fund-8-funding-access (1).png>)
 
 ### **Funding categories equivalent**
 
-After reviewing the [data covered in the methodology](methodology.md) for fund 8 a similar funding categorisation outcome could have been achieved with funding categories as an alternative categorisation approach by applying the following budget weightings:
+After reviewing the [data covered in the methodology](methodology-data-and-feedback.md) for fund 8 a similar funding categorisation outcome could have been achieved with funding categories as an alternative categorisation approach by applying the following budget weightings:
 
 * **Community & Outreach** - 15%
 * **Products & Integrations** - 32%
@@ -29,7 +29,7 @@ There were 22 categorisations in fund 8. This made it more difficult to understa
 
 **Overlapping categorisations**
 
-In many cases across the categorisations the proposal types could be submitted in multiple categorisations. This adds complexity and an amount of game theory of where proposals should submit their proposals to maximise their chance of success. Allowing for this behaviour does not mean the best proposals will be funded and can lead to exploitation of unused categorisations.
+In many cases across the categorisations certain types of proposals could be submitted in multiple categorisations. This adds complexity and an amount of game theory of where proposals should submit their proposals to maximise their chance of success. Allowing for this behaviour does not mean the best proposals will be funded and can lead to exploitation of unused categorisations.
 
 
 

@@ -40,11 +40,11 @@
 
 ## Historical Categorisation Analysis
 
-* [Funding Access Per Proposal Type](historical-categorisation-analysis/funding-access-per-proposal-type/README.md)
-  * [Methodology, Data & Feedback](historical-categorisation-analysis/funding-access-per-proposal-type/methodology.md)
-  * [Fund 9](historical-categorisation-analysis/funding-access-per-proposal-type/fund-9.md)
-  * [Fund 8](historical-categorisation-analysis/funding-access-per-proposal-type/fund-8.md)
-  * [Fund 7](historical-categorisation-analysis/funding-access-per-proposal-type/fund-7.md)
+* [Funding Access For Each Focus Area](historical-categorisation-analysis/funding-access-for-each-focus-area/README.md)
+  * [Methodology, Data & Feedback](historical-categorisation-analysis/funding-access-for-each-focus-area/methodology-data-and-feedback.md)
+  * [Fund 9](historical-categorisation-analysis/funding-access-for-each-focus-area/fund-9.md)
+  * [Fund 8](historical-categorisation-analysis/funding-access-for-each-focus-area/fund-8.md)
+  * [Fund 7](historical-categorisation-analysis/funding-access-for-each-focus-area/fund-7.md)
 * [Categories & Previous Categorisations](historical-categorisation-analysis/categories-and-previous-categorisations.md)
 * [Previous Categorisations](historical-categorisation-analysis/previous-categorisations/README.md)
   * [All Previous Challenge Settings](historical-categorisation-analysis/previous-categorisations/all-previous-challenge-settings.md)

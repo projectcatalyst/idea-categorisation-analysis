@@ -1,16 +1,16 @@
 ---
-description: Fund 7 proposal types access to funding
+description: Fund 7 funding access for different focus areas
 ---
 
 # Fund 7
 
-### Funding access per proposal type
+### Funding access for different focus areas
 
-![](../../.gitbook/assets/fund-7-funding-access.png)
+![](<../../.gitbook/assets/fund-7-funding-access (1).png>)
 
 ### **Funding categories equivalent**
 
-After reviewing the [data covered in the methodology](methodology.md) for fund 7 a similar funding categorisation outcome could have been achieved with funding categories as an alternative categorisation approach by applying the following budget weightings:
+After reviewing the [data covered in the methodology](methodology-data-and-feedback.md) for fund 7 a similar funding categorisation outcome could have been achieved with funding categories as an alternative categorisation approach by applying the following budget weightings:
 
 * **Community & Outreach** - 15%
 * **Products & Integrations** - 30%
@@ -23,7 +23,7 @@ After reviewing the [data covered in the methodology](methodology.md) for fund 7
 
 **Restrictive funding access**
 
-Fund 7 had far much more limiting access to funding for a number of proposal types. The funding categories equivalent achieves more access for all of the proposal type areas to a fairly significant degree. This could have helped with both competition and better variation of the proposals submitted to give the voter more options to choose from.
+Fund 7 had far much more limiting access to funding for a number of proposal focus areas. The funding categories equivalent achieves more access for all of the proposal focus areas to a fairly significant degree. This could have helped with both competition and better variation of the proposals submitted to give the voter more options to choose from.
 
 
 
