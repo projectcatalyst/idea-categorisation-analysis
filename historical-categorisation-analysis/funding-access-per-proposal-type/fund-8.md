@@ -12,10 +12,10 @@ description: Fund 8 proposal types access to funding
 
 After reviewing the [data covered in the methodology](methodology.md) for fund 8 a similar funding categorisation outcome could have been achieved with funding categories as an alternative categorisation approach by applying the following budget weightings:
 
-* **Community & Outreach** - 14%
+* **Community & Outreach** - 15%
 * **Products & Integrations** - 32%
-* **Governance & Identity** - 23%
-* **Development & Infrastructure** - 31%
+* **Governance & Identity** - 26%
+* **Development & Infrastructure** - 27%
 
 
 
