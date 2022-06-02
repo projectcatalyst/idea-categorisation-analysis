@@ -6,7 +6,7 @@ description: >-
 
 # Overview
 
-Funding categories offer a number of advantages that highlight how they could effectively place the challenge setting process.
+Funding categories offer a number of advantages that make it an effective approach for funding categorisation.
 
 ![Funding Category Advantages](../.gitbook/assets/categories-benefits.png)
 
