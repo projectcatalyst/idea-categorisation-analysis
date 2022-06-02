@@ -47,13 +47,11 @@ Scaled examples to show cost comparisons in different scenarios such as increase
 
 
 
-**Increased voter example**
+**1 million voters example**
 
 ![](../../.gitbook/assets/overall-costs-voter-example.png)
 
-****
-
-**Increased proposer example**
+**10,000 proposers example**
 
 ![](../../.gitbook/assets/overall-costs-proposer-example.png)
 
@@ -65,7 +63,7 @@ Scaled examples to show cost comparisons in different scenarios such as increase
 
 **Very high voter cost with challenge settings**
 
-Anything that increases the time required for voters to participate increases the total cost drastically due to the need to scale the number of voters that participate. The voter is the highest population member involved in the voting process. The cost of all a voters tasks in aggregate to participate in the funding process need to be optimised where possible to increase the amount of participation that is possible.
+Challenge settings don't effectively scale for the voter as they must review a large number of categorisations to make a decision. Increasing effort requirements for voters to participate increases the total cost drastically for the voting process and decreases the likelihood of scalable participation. The voter is the highest population member involved in the voting process which means that tasks required for them to participate in the funding process need to be optimised to help increase their ability to fully participate.
 
 
 
