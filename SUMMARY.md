@@ -38,16 +38,18 @@
 * [Inclusive vs Competitive Categorisation](categorisation-analysis/inclusive-vs-competitive-categorisation.md)
 * [Broad vs Specific Categorisation](categorisation-analysis/broad-vs-specific-categorisation.md)
 
-## Historical Categorisation Analysis
+## Historical Analysis & Comparisons
 
-* [Funding Access For Each Focus Area](historical-categorisation-analysis/funding-access-for-each-focus-area/README.md)
-  * [Methodology, Data & Feedback](historical-categorisation-analysis/funding-access-for-each-focus-area/methodology-data-and-feedback.md)
-  * [Fund 9](historical-categorisation-analysis/funding-access-for-each-focus-area/fund-9.md)
-  * [Fund 8](historical-categorisation-analysis/funding-access-for-each-focus-area/fund-8.md)
-  * [Fund 7](historical-categorisation-analysis/funding-access-for-each-focus-area/fund-7.md)
-* [Categories & Previous Categorisations](historical-categorisation-analysis/categories-and-previous-categorisations.md)
-* [Previous Categorisations](historical-categorisation-analysis/previous-categorisations/README.md)
-  * [All Previous Challenge Settings](historical-categorisation-analysis/previous-categorisations/all-previous-challenge-settings.md)
+* [Categorisation Overall Cost Comparison](historical-analysis-and-comparisons/categorisation-overall-cost-comparison/README.md)
+  * [Methodology & Data](historical-analysis-and-comparisons/categorisation-overall-cost-comparison/methodology-and-data.md)
+* [Funding Access For Each Focus Area](historical-analysis-and-comparisons/funding-access-for-each-focus-area/README.md)
+  * [Methodology, Data & Feedback](historical-analysis-and-comparisons/funding-access-for-each-focus-area/methodology-data-and-feedback.md)
+  * [Fund 9](historical-analysis-and-comparisons/funding-access-for-each-focus-area/fund-9.md)
+  * [Fund 8](historical-analysis-and-comparisons/funding-access-for-each-focus-area/fund-8.md)
+  * [Fund 7](historical-analysis-and-comparisons/funding-access-for-each-focus-area/fund-7.md)
+* [Categories & Previous Categorisations](historical-analysis-and-comparisons/categories-and-previous-categorisations.md)
+* [Previous Categorisations](historical-analysis-and-comparisons/previous-categorisations/README.md)
+  * [All Previous Challenge Settings](historical-analysis-and-comparisons/previous-categorisations/all-previous-challenge-settings.md)
 
 ## Community Goals & Objectives
 

@@ -16,7 +16,7 @@ Consider the following funding categorisations:
 
 
 
-**Fund 8 Challenge settings** - From [fund 8 challenge settings](../historical-categorisation-analysis/previous-categorisations/)
+**Fund 8 Challenge settings** - From [fund 8 challenge settings](../historical-analysis-and-comparisons/previous-categorisations/)
 
 * [Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/26433/about)
 * [Open Source Development Ecosystem](https://cardano.ideascale.com/c/campaigns/26434/about)
