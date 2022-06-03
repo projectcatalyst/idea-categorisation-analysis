@@ -28,6 +28,6 @@ One potential solution for this is a form of categorisation like Nurturing Ideas
 
 **Categorisation may not be necessary**
 
-Although this approach to help with new ideas and teams could be effective it also may not be needed. If the other categories are effectively allowing a mixture of ideas and teams to be funded in a competitive environment then this category could be potentially removed.
+Although this approach could be useful for helping new ideas and teams it also may not be needed. If the other categories are effectively allowing a mixture of new ideas and teams to be funded then this category can be reconsidered or even potentially removed.
 
-Analysis will be needed to look at how funding categories are used and what outcomes occur so that the community can determine whether nurturing ideas & teams as a category is effective as a categorisation.
+Analysis will be needed to look at how funding categories are used and what outcomes occur. This insight will determine whether nurturing ideas & teams as a categorisation is effective and should be used.
