@@ -24,9 +24,9 @@ Using an [independent goal & objective setting process](independent-goal-and-obj
 
 **Funding categories promote recurring, inclusive and broad categorisation**
 
-* **Recurring** - Categories based on focus areas or that fulfil a certain function can be defined upfront and used in each funding round. This makes them a suitable choice for recurring categorisation. The categories could still change but would instead only need updating when necessary.
-* **Inclusive** - Categories that group proposals by a focus area can easily be inclusive to all forms of idea and innovation. Funding categories have been designed to be suitable for being an inclusive form of funding categorisation**.**
 * **Broad** - Focus area and function focussed categorisation is well suited to offering broad categorisation that invites multiple types of proposals. Categorisation could also be made more specific on what focus areas are included however this comes at an increase cost of complexity around determining budget weighting for each categorisation. Specific categorisation is less flexible to dynamic changes.
+* **Inclusive** - Categories that group proposals by a focus area can easily be inclusive to all forms of idea and innovation. Funding categories have been designed to be suitable for being an inclusive form of funding categorisation**.**
+* **Recurring** - Categories based on focus areas or that fulfil a certain function can be defined upfront and used in each funding round. This makes them a suitable choice for recurring categorisation. The categories could still change but would instead only need updating when necessary.
 
 
 

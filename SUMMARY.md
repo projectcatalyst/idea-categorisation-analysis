@@ -34,9 +34,9 @@
 * [Egalitarian Funding Categorisation](categorisation-analysis/egalitarian-funding-categorisation.md)
 * [Approaches For Directing Funding](categorisation-analysis/approaches-for-directing-funding.md)
 * [Categorisation Approaches](categorisation-analysis/categorisation-approaches.md)
-* [Recurring vs Changing Categorisation](categorisation-analysis/recurring-vs-changing-categorisation.md)
-* [Inclusive vs Competitive Categorisation](categorisation-analysis/inclusive-vs-competitive-categorisation.md)
 * [Broad vs Specific Categorisation](categorisation-analysis/broad-vs-specific-categorisation.md)
+* [Inclusive vs Exclusive Categorisation](categorisation-analysis/inclusive-vs-exclusive-categorisation.md)
+* [Recurring vs Changing Categorisation](categorisation-analysis/recurring-vs-changing-categorisation.md)
 
 ## Historical Analysis & Comparisons
 

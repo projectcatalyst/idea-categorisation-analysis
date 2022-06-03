@@ -6,9 +6,9 @@ description: >-
 
 # Previous Categorisations
 
-The following historical categorisations were created using the challenge setting process.
+The following historical categorisations are those that were selected in the voting process to be used in the subsequent funding round.
 
-****
+
 
 **Fund 8**
 

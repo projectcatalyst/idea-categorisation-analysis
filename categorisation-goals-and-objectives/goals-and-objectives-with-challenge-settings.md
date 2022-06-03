@@ -8,14 +8,14 @@ description: >-
 
 Challenge settings allows for any form of funding categorisation. This means that categorisations can be cover broad to specific proposal type groupings. They could also be goal or objective focussed categorisations.
 
-The flexibility provided by challenge settings results in multiple problems. Challenge settings are not effectively at promoting categorisation that is simple, efficient, flexible and scalable. The cause of these issues are due to the challenge setting process promoting [specific](../categorisation-analysis/broad-vs-specific-categorisation.md), [competitive](../categorisation-analysis/inclusive-vs-competitive-categorisation.md) and [changing](../categorisation-analysis/recurring-vs-changing-categorisation.md) categorisation.
+The flexibility provided by challenge settings results in multiple problems. Challenge settings are not effectively at promoting categorisation that is simple, efficient, flexible and scalable. The cause of these issues are due to the challenge setting process promoting [specific](../categorisation-analysis/broad-vs-specific-categorisation.md), [exclusive](../categorisation-analysis/inclusive-vs-exclusive-categorisation.md) and [changing](../categorisation-analysis/recurring-vs-changing-categorisation.md) categorisation.
 
 
 
 **Challenge settings promotes changing, competitive and specific categorisation**
 
 * **Changing** - Objectives can be completed or can increase or decrease in priority each funding round. Objective based categorisation leads to categorisation that is always changing.
-* **Competitive** - There are a large amount of potential goals and objectives that could exist that need to be prioritised by the community. Objectives would need to compete to have access to a fixed amount of funding available.
+* **Exclusive** - There are a large amount of potential goals and objectives that could exist that need to be prioritised by the community. Objectives would need to compete to have access to a fixed amount of funding available meaning many objectives are often excluded.
 * **Specific** - Achieving goals by setting specific objectives helps to solve certain problems and add value to the ecosystem. This approach leads to increasing the number of specific categorisations to target those objectives. This is not true for all categorisations, some could just focus on broad goals. One example could be the goal of deploying new DApps and integrations on the Cardano blockchain.
 
 
@@ -41,7 +41,7 @@ The flexibility provided by challenge settings results in multiple problems. Cha
 
 ![](../.gitbook/assets/challenges-and-goals.png)
 
-* **Exclusion of goal based categorisation** - The example above shows an example of an excluded proposal due to the categorisations that are included and excluded. Challenge settings encourage competitive categorisation which means it becomes easy for goals and objectives along with their relevant proposals to be excluded from funding rounds. This means voters will receive less options to select from. Those excluded proposals could be higher impact than the ones that are included.
-* **Difficulty with dynamic changes** - Categorisations where goal or objective setting is a main focus result in a brittle categorisation that is less flexible to dynamic changes in goal or objective priorities. This problems occurs due to the specificity of the categorisation and the mandate it has on one goal or objective area. This cannot be changed once set during the funding round.
+* **Exclusion of goal based categorisation** - The example above shows an example of an excluded proposal due to the categorisations that are included and excluded. Challenge settings are competitive meaning they lead to exclusive categorisation which makes it easy for goals and objectives along with their relevant proposals to be excluded from funding rounds. This means voters will receive less options to select from. Those excluded proposals could be higher impact than the ones that are included.
+* **Difficulty with dynamic changes** - Categorisations where goal or objective setting is a main focus result in a brittle categorisation that is less flexible to dynamic changes in goal or objective priorities. This problems occurs due to the specificity of the categorisation and the mandate it creates on one goal or objective area. This cannot be changed once set during the funding round.
 * **Complexity for proposers** - Proposals that match multiple goal or objective focuses have increased complexity on where to place their proposals due to the categorisation overlaps. In the challenge setting approach they must choose a single categorisation to submit a proposal. This may not reflect all the goals and objectives they are looking to help with.
 * **Complexity for budget weighting** - As the number of goal or objective based categorisations increase the complexity for what budget weighting to apply increases. It would be difficult to apply an accurate and suitable budget weighting to a large number of goal or objective based categorisations. This categorisation approach also attempts to be overly predictive of how innovation should unfold. This approach is not an accurate representation of the spontaneous nature of innovation and how it can occur in practice.

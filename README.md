@@ -15,4 +15,6 @@ There are a number of issues with the current [challenge setting process](challe
 * ****[**Funding Categories Advantages**](broken-reference) - A list of all of the advantages of using funding categories
 * ****[**Funding Categories Analysis**](broken-reference) - Analysing funding categories and how they benefit the Catalyst ecosystem along with addressing any concerns people may have about their usage.
 * ****[**Categorisation Analysis** ](broken-reference)- Analysis looking at the trade offs between different approaches for doing funding categorisation and also analysis on certain outcomes that are desirable to achieve.
+* [**Historical Analysis & Comparisons**](broken-reference) - Exploring historical changes in funding categorisations and comparisons between funding categories and challenge settings.
+* [**Community Goals & Objectives**](broken-reference) - Analysis covering the importance of goals and objective and the implications it has on funding categories and challenge settings
 * [**Challenge Settings**](broken-reference) - Exploring the current challenge setting process and the issues involved, the issues on how challenge settings are assessed and also a list of the previously selected challenges from previous funding rounds.
