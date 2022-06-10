@@ -29,14 +29,17 @@
   * [Verifiability](funding-categories-analysis/concerns-and-solutions/verifiability.md)
   * [Less Specialised Challenge Teams](funding-categories-analysis/concerns-and-solutions/less-specialised-challenge-teams.md)
 
+## Categorisation Properties
+
+* [Broad vs Specific Categorisation](categorisation-properties/broad-vs-specific-categorisation.md)
+* [Inclusive vs Exclusive Categorisation](categorisation-properties/inclusive-vs-exclusive-categorisation.md)
+* [Recurring vs Changing Categorisation](categorisation-properties/recurring-vs-changing-categorisation.md)
+
 ## Categorisation Analysis
 
 * [Egalitarian Funding Categorisation](categorisation-analysis/egalitarian-funding-categorisation.md)
 * [Approaches For Directing Funding](categorisation-analysis/approaches-for-directing-funding.md)
 * [Categorisation Approaches](categorisation-analysis/categorisation-approaches.md)
-* [Broad vs Specific Categorisation](categorisation-analysis/broad-vs-specific-categorisation.md)
-* [Inclusive vs Exclusive Categorisation](categorisation-analysis/inclusive-vs-exclusive-categorisation.md)
-* [Recurring vs Changing Categorisation](categorisation-analysis/recurring-vs-changing-categorisation.md)
 
 ## Historical Analysis & Comparisons
 

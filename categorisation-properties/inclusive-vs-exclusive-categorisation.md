@@ -40,7 +40,7 @@ Exclusive categorisation means that the categorisations used in a given funding 
 
 **Advantages**
 
-* **Open funding** - All forms of ideas and innovation would be included. This means maximising the amount of options the voter has to choose from when deciding where to allocate funding. Inclusive categorisation helps to ensure funding is more [egalitarian](egalitarian-funding-categorisation.md).
+* **Open funding** - All forms of ideas and innovation would be included. This means maximising the amount of options the voter has to choose from when deciding where to allocate funding. Inclusive categorisation helps to ensure funding is more [egalitarian](../categorisation-analysis/egalitarian-funding-categorisation.md).
 * **No categorisation justification** - No effort is needed to justify the categorisation as the categorisations used cover all forms of ideas and innovation will be included.
 * **Easy to direct funding** - Inclusive categorisations would have their own budgets. Voters would be able to decide where to allocate more or less funding each funding round to better direct funding to where it is needed.
 * **Low governance effort** - For inclusive categorisation the only governance required is around the budget weightings between the categorisation which can be done in a single vote.

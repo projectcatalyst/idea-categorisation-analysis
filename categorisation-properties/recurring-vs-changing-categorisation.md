@@ -45,7 +45,7 @@ Changing categorisation looks to introduce a new groupings of focus areas for fu
 
 **Issues**
 
-* **Harder to direct funding** - Using recurring categorisations could mean they are less effective at directing funding from one area to another at the categorisation level. This is not a large issue as the voters still get to decide where they want to allocate funding using their vote and there are many [approaches for directing funding](approaches-for-directing-funding.md) that can be used.
+* **Harder to direct funding** - Using recurring categorisations could mean they are less effective at directing funding from one area to another at the categorisation level. This is not a large issue as the voters still get to decide where they want to allocate funding using their vote and there are many [approaches for directing funding](../categorisation-analysis/approaches-for-directing-funding.md) that can be used.
 
 
 
@@ -66,5 +66,5 @@ Changing categorisation looks to introduce a new groupings of focus areas for fu
 
 ### Summary
 
-* **Many ways to direct funding** - Having changing funding categorisation can be one way that the community could use to direct funding. The problem with this is it means predicting ahead of time what ideas and innovation will be submitted for those categorisations of focus areas. There is never a guarantee that proposals will be submitted or the ones submitted are of sufficient quality. Alternatively there are other approaches to [direct funding](approaches-for-directing-funding.md) that do not need to impact funding categorisation.&#x20;
-* **Changing categorisation introduces high effort and complexity** - Constantly changing categorisations increases effort required for all the stakeholders involved in the funding process in terms of total time required and governance effort. There are numerous ways to [direct funding outside of changing the categorisation](approaches-for-directing-funding.md). With no other significant benefits for changing categorisation on a regular basis there does not appear to be many reasons to use this as an approach for funding categorisation.
+* **Many ways to direct funding** - Having changing funding categorisation can be one way that the community could use to direct funding. The problem with this is it means predicting ahead of time what ideas and innovation will be submitted for those categorisations of focus areas. There is never a guarantee that proposals will be submitted or the ones submitted are of sufficient quality. Alternatively there are other approaches to [direct funding](../categorisation-analysis/approaches-for-directing-funding.md) that do not need to impact funding categorisation.&#x20;
+* **Changing categorisation introduces high effort and complexity** - Constantly changing categorisations increases effort required for all the stakeholders involved in the funding process in terms of total time required and governance effort. There are numerous ways to [direct funding outside of changing the categorisation](../categorisation-analysis/approaches-for-directing-funding.md). With no other significant benefits for changing categorisation on a regular basis there does not appear to be many reasons to use this as an approach for funding categorisation.

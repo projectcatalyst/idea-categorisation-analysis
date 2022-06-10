@@ -8,7 +8,7 @@ description: >-
 
 Challenge settings allows for any form of funding categorisation. This means that categorisations can be cover broad to specific proposal type groupings. They could also be goal or objective focussed categorisations.
 
-The flexibility provided by challenge settings results in multiple problems. Challenge settings are not effectively at promoting categorisation that is simple, efficient, flexible and scalable. The cause of these issues are due to the challenge setting process promoting [specific](../categorisation-analysis/broad-vs-specific-categorisation.md), [exclusive](../categorisation-analysis/inclusive-vs-exclusive-categorisation.md) and [changing](../categorisation-analysis/recurring-vs-changing-categorisation.md) categorisation.
+The flexibility provided by challenge settings results in multiple problems. Challenge settings are not effectively at promoting categorisation that is simple, efficient, flexible and scalable. The cause of these issues are due to the challenge setting process promoting [specific](../categorisation-properties/broad-vs-specific-categorisation.md), [exclusive](../categorisation-properties/inclusive-vs-exclusive-categorisation.md) and [changing](../categorisation-properties/recurring-vs-changing-categorisation.md) categorisation.
 
 
 

@@ -24,7 +24,7 @@ Some of these approaches could be achieved likely in the short term (in the next
 
 **Challenge settings**
 
-The community challenge setting process is the current way that funding is being directed to certain areas. The analysis on [specific categories](broad-vs-specific-categorisation.md) helps to highlight the issues around this process and how it can cause restrictive funding with complex budget weighting and justification decisions.
+The community challenge setting process is the current way that funding is being directed to certain areas. The analysis on [specific categories](../categorisation-properties/broad-vs-specific-categorisation.md) helps to highlight the issues around this process and how it can cause restrictive funding with complex budget weighting and justification decisions.
 
 The other main issue for challenge setting as a way to direct funding is it leads to unfair access to opportunities. Some areas will have access to funding allocations and others will not. This stifles innovation as fewer opportunities are able to submit their ideas to the process in different funding rounds. Funding allocation requirements through challenge settings are not required to direct funding to certain areas in the ecosystem and are not effective at supporting an [egalitarian funding](egalitarian-funding-categorisation.md) process.
 

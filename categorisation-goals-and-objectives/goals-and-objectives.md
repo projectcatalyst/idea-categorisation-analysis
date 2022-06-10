@@ -24,7 +24,7 @@ Goals focus on more broad and longer term outcomes that the community is looking
 
 **Why goals aren’t suitable as funding categorisation**
 
-Goals are more effective than objectives for funding categorisation because they are broad in focus. This increases flexibility in the proposal types that can be submitted. However at one given moment the community will only have a certain amount of goals. If funding categorisation was achieved using goals then it would mean excluding many potential ideas and innovation. This has the problem of reducing competition, removing options for voters and ignoring the fact that more impactful innovation could come outside of the goals that have been set. This is also discussed in comparing [inclusive vs exclusive categorisation](../categorisation-analysis/inclusive-vs-exclusive-categorisation.md).
+Goals are more effective than objectives for funding categorisation because they are broad in focus. This increases flexibility in the proposal types that can be submitted. However at one given moment the community will only have a certain amount of goals. If funding categorisation was achieved using goals then it would mean excluding many potential ideas and innovation. This has the problem of reducing competition, removing options for voters and ignoring the fact that more impactful innovation could come outside of the goals that have been set. This is also discussed in comparing [inclusive vs exclusive categorisation](../categorisation-properties/inclusive-vs-exclusive-categorisation.md).
 
 
 
