@@ -10,7 +10,7 @@ The following challenges being suggested for fund 9 have a number which overlap 
 
 
 
-**14 overlapping solution based categorisations**
+**14 overlapping product & integration based categorisations**
 
 ****[**Products & Integrations**](https://app.ideascale.com/t/UM5UZBunL)**,** [**Legal & Financial Implementations**](https://app.ideascale.com/t/UM5UZBvbn)**,** [**Dapps, Products & Integrations**](https://app.ideascale.com/t/UM5UZBw78)**,** [**Nation Building Dapps**](https://app.ideascale.com/t/UM5UZBuo2)**,** [**Gamers On-Chained**](https://app.ideascale.com/t/UM5UZBw1o)**,** [**Climate Change: THE Challenge**](https://app.ideascale.com/t/UM5UZBvq4)**,** [**NFT Community & Ecosystem**](https://app.ideascale.com/t/UM5UZBwLV)**,** [**Cardano DeFi Dominance**](https://app.ideascale.com/t/UM5UZBurB)**,** [**Business Solutions**](https://app.ideascale.com/t/UM5UZBvhC)**,** [**Decentralised Storage Solutions**](https://app.ideascale.com/t/UM5UZBuuG)**,** [**Global Health Care on Cardano**](https://app.ideascale.com/t/UM5UZBw4s)**,** [**Cardano for Cities \[C4C\]**](https://app.ideascale.com/t/UM5UZBwDp)**,** [**Conflict Transformation**](https://app.ideascale.com/t/UM5UZBulb)**,** [**LINKING PEOPLE TO THE FARM**](https://app.ideascale.com/t/UM5UZBwPp)
 
@@ -40,6 +40,6 @@ The following challenges being suggested for fund 9 have a number which overlap 
 
 
 
-**Overlapping Catalyst based categorisations**
+**9 overlapping Catalyst based categorisations**
 
 ****[**dRep improvement and onboarding**](https://app.ideascale.com/t/UM5UZBvsJ)**,** [**Governance & Identity**](https://app.ideascale.com/t/UM5UZBunV)**,** [**Community Advisor Improvements**](https://app.ideascale.com/t/UM5UZBwYx)**,** [**Catalyst Impact Accelerator**](https://app.ideascale.com/t/UM5UZBwWz)**,** [**Catalyst - Rapid Funding Mechanisms**](https://app.ideascale.com/t/UM5UZBumy)**,** [**Proposal Management Tools \&Services**](https://app.ideascale.com/t/UM5UZBweN)**,** [**Catalyst Culture**](https://app.ideascale.com/t/UM5UZBvsH)**,** [**Renovating Catalyst Governance**](https://app.ideascale.com/t/UM5UZBvyp)**,** [**Catalyst Systems Innovators**](https://app.ideascale.com/t/UM5UZBw8W)
