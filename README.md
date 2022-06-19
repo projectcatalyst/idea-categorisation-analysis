@@ -10,6 +10,14 @@ There are a number of issues with the current [challenge setting process](challe
 
 ![](.gitbook/assets/category-proposals.png)
 
+
+
+**Objective for funding categorisation**
+
+To ensure that funding categorisation enables opportunity for impactful ideas and innovation to be submitted and considered by the voters in each and every funding round.
+
+
+
 ### Contents
 
 * ****[**Funding Categories Advantages**](broken-reference) - A list of all of the advantages of using funding categories
