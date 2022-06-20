@@ -132,7 +132,7 @@ Using locations such as different countries or continents as funding categories.
 
 ### **Category combinations**
 
-Using a combination of the above approaches in a combined category approach. This is more similar to the current [challenge setting approach](../challenge-settings/challenge-setting-approach.md). The intention would be to determine a more fixed list of categories to prevent the current bad incentives caused by
+Using a combination of the above approaches in a combined category approach. This is more similar to the current [challenge setting approach](../challenge-settings/challenge-setting-process.md). The intention would be to determine a more fixed list of categories to prevent the current bad incentives caused by
 
 ****
 

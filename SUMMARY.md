@@ -68,7 +68,8 @@
 
 ## Challenge Settings
 
-* [Challenge Setting Approach](challenge-settings/challenge-setting-approach.md)
+* [Challenge Setting Process](challenge-settings/challenge-setting-process.md)
+* [Challenge Setting Issues](challenge-settings/challenge-setting-issues.md)
 * [Challenge Setting Assessment Issues](challenge-settings/challenge-setting-assessment-issues.md)
 
 ## 🔗 Links
