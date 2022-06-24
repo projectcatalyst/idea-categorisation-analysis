@@ -4,9 +4,7 @@ description: >-
   categorisation
 ---
 
-# Inclusive vs Exclusive Categorisation
-
-### Funding categorisation: inclusive vs exclusive
+# Inclusive vs Exclusive Categorisations
 
 For determining availability of funding to different areas the categorisation can either go for an inclusive or exclusive approach.
 

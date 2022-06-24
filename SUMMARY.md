@@ -2,11 +2,12 @@
 
 * [Overview](README.md)
 
-## Categorisation Properties
+## Categorisation Approaches
 
-* [Broad vs Specific Categorisation](categorisation-properties/broad-vs-specific-categorisation.md)
-* [Inclusive vs Exclusive Categorisation](categorisation-properties/inclusive-vs-exclusive-categorisation.md)
-* [Recurring vs Changing Categorisation](categorisation-properties/recurring-vs-changing-categorisation.md)
+* [Broad vs Specific Categorisations](categorisation-approaches/broad-vs-specific-categorisations.md)
+* [Inclusive vs Exclusive Categorisations](categorisation-approaches/inclusive-vs-exclusive-categorisations.md)
+* [Unique vs Overlapping Categorisations](categorisation-approaches/unique-vs-overlapping-categorisations.md)
+* [Recurring vs Changing Categorisations](categorisation-approaches/recurring-vs-changing-categorisations.md)
 
 ## Funding Categories Advantages
 
@@ -39,7 +40,7 @@
 
 * [Egalitarian Funding Categorisation](categorisation-analysis/egalitarian-funding-categorisation.md)
 * [Approaches For Directing Funding](categorisation-analysis/approaches-for-directing-funding.md)
-* [Categorisation Approaches](categorisation-analysis/categorisation-approaches.md)
+* [Focus Area Categorisation Approaches](categorisation-analysis/focus-area-categorisation-approaches.md)
 
 ## Historical Analysis & Comparisons
 

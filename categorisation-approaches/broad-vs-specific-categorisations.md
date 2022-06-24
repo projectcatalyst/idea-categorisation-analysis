@@ -4,9 +4,7 @@ description: >-
   categorisation
 ---
 
-# Broad vs Specific Categorisation
-
-### Funding categorisation: broad vs specific
+# Broad vs Specific Categorisations
 
 Categorisation can be either broad and have a large amount of ideas and innovation that can fit into the categorisation or be more specific and focus on more specific ideas and innovation.
 
@@ -28,7 +26,7 @@ Categorisation can be either broad and have a large amount of ideas and innovati
 
 
 
-### **Factors to consider for categorisation**
+### **Factors to consider**
 
 * **Budget weighting complexity** - What complexity is there for deciding the budget weighting to apply to each of the categorisations in a funding round? How much effort is required and how long will it take to achieve a well informed outcome?
 * **Proposal visibility** - How easy is it for proposals to be seen? Is there high competition causing lower visibility?

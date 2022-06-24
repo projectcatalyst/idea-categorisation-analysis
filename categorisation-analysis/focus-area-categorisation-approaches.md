@@ -1,10 +1,10 @@
 ---
 description: >-
-  Exploring some differences between location, ecosystem function, organisation
-  function and beneficiary categorisation approaches
+  Exploring some differences between categorisations created based on location,
+  ecosystem function, organisation function and beneficiary based focus areas
 ---
 
-# Categorisation Approaches
+# Focus Area Categorisation Approaches
 
 For the following comparison we are focused on categorisation for proposal based funding. The comparisons are also for comparing potential fixed core categories that would be used for the funding process. This means that analysis is done upfront for defining the categories to use where any changes would be less frequent instead of changing them every funding round.
 
@@ -185,4 +185,4 @@ Using a combination of the above approaches in a combined category approach. Thi
 ### **References**
 
 * [https://eprint.iacr.org/2018/435.pdf](https://eprint.iacr.org/2018/435.pdf) - A Treasury System for Cryptocurrencies research paper written in collaboration with IOG.
-* [https://drive.google.com/file/d/15zQgrCLvmmIlnvYTQFpD7Od2AqNO-ZZA/view?usp=sharing](https://drive.google.com/file/d/15zQgrCLvmmIlnvYTQFpD7Od2AqNO-ZZA/view?usp=sharing) - A Catalyst community member, Tomi, previously looked at Catalyst funding allocation approaches. The organisation functions approach above takes influence from this work. Products & Integrations has replaced the community challenge part from this source to simplify the suggested categorisation and prevent the issues around specific categories that are outlined in the [funding allocation approaches](../categorisation-properties/broad-vs-specific-categorisation.md) analysis.
+* [https://drive.google.com/file/d/15zQgrCLvmmIlnvYTQFpD7Od2AqNO-ZZA/view?usp=sharing](https://drive.google.com/file/d/15zQgrCLvmmIlnvYTQFpD7Od2AqNO-ZZA/view?usp=sharing) - A Catalyst community member, Tomi, previously looked at Catalyst funding allocation approaches. The organisation functions approach above takes influence from this work. Products & Integrations has replaced the community challenge part from this source to simplify the suggested categorisation and prevent the issues around specific categories that are outlined in the [funding allocation approaches](../categorisation-approaches/broad-vs-specific-categorisations.md) analysis.

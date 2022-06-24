@@ -24,7 +24,7 @@ The intention for this in the future will be for Catalyst contributors to host a
 
 **Why are there so many proposal types in each category?**
 
-Using broad categories that include a wide number of ideas was the intention behind the categories. Specific funding categorisation adds significant complexity in governance and effort required by the community which we outline when exploring [broad vs specific categorisation](../../categorisation-properties/broad-vs-specific-categorisation.md).
+Using broad categories that include a wide number of ideas was the intention behind the categories. Specific funding categorisation adds significant complexity in governance and effort required by the community which we outline when exploring [broad vs specific categorisation](../../categorisation-approaches/broad-vs-specific-categorisations.md).
 
 
 

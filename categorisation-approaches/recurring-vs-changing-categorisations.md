@@ -1,12 +1,10 @@
 ---
 description: >-
   Comparing the differences between recurring and changing funding
-  categorisation
+  categorisations
 ---
 
-# Recurring vs Changing Categorisation
-
-### Funding categorisation: recurring vs changing
+# Recurring vs Changing Categorisations
 
 Funding categorisation can be recurring when it is well defined and repeatedly used in each funding round. Alternatively categorisation can also be always changing where new categorisation approaches are defined and used each round.
 
