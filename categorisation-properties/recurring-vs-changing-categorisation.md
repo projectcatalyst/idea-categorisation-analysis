@@ -30,7 +30,7 @@ Changing categorisation looks to introduce a new groupings of focus areas for fu
 * **Categorisation justification** - How complex is it to provide evidence and data to justify all categorisation selected for a given funding round? How much effort and governance is required?
 * **Directing funding** - How effective is the categorisation for directing funding to certain areas that need more funding support?
 * **Governance effort** - How much effort is needed to govern the selection and usage of the categorisations?
-* **Stakeholder effort** - How much effort is required to maintain this type of categorisation for the different stakeholders involved in the funding process?
+* **Stakeholder effort** - How much effort is required with this approach towards categorisation from all the stakeholders involved in the funding process?
 
 
 
