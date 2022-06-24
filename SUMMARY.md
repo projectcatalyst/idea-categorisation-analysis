@@ -2,6 +2,12 @@
 
 * [Overview](README.md)
 
+## Categorisation Properties
+
+* [Broad vs Specific Categorisation](categorisation-properties/broad-vs-specific-categorisation.md)
+* [Inclusive vs Exclusive Categorisation](categorisation-properties/inclusive-vs-exclusive-categorisation.md)
+* [Recurring vs Changing Categorisation](categorisation-properties/recurring-vs-changing-categorisation.md)
+
 ## Funding Categories Advantages
 
 * [Overview](funding-categories-advantages/overview.md)
@@ -28,12 +34,6 @@
   * [Directing Funding](funding-categories-analysis/concerns-and-solutions/directing-funding.md)
   * [Verifiability](funding-categories-analysis/concerns-and-solutions/verifiability.md)
   * [Less Specialised Challenge Teams](funding-categories-analysis/concerns-and-solutions/less-specialised-challenge-teams.md)
-
-## Categorisation Properties
-
-* [Broad vs Specific Categorisation](categorisation-properties/broad-vs-specific-categorisation.md)
-* [Inclusive vs Exclusive Categorisation](categorisation-properties/inclusive-vs-exclusive-categorisation.md)
-* [Recurring vs Changing Categorisation](categorisation-properties/recurring-vs-changing-categorisation.md)
 
 ## Categorisation Analysis
 

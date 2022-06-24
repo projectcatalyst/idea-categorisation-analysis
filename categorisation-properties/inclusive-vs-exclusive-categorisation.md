@@ -30,7 +30,7 @@ Exclusive categorisation means that the categorisations used in a given funding 
 * **Budget weighting complexity** - What complexity is there for deciding the budget weightings for each categorisation approach? How much effort and how long will it take to get a well informed outcome?
 * **Categorisation justification** - How complex is it to provide evidence and data to justify all categorisation selected for a given funding round? How much effort and governance is required?
 * **Directing funding** - How effective is the categorisation for directing funding to certain areas that need more funding support?
-* **Governance effort** - How much effort is needed to govern the specificity of the categorisation?
+* **Governance effort** - How much effort is needed to govern the funding categorisations?
 * **Stakeholder effort** - How much effort is required to maintain this type of categorisation from the stakeholders involved in the funding process?
 * **Level of competition** - High competition can be good for selecting the best proposed ideas and innovation from a wider proposal pool but comes at the cost of making it more challenging for smaller teams. Lower competition for categorisation has the benefit of helping spread the competition difficulty that will help smaller teams but comes at the cost of an increased chance of funding innovation that is not as effective due to the lower competition.
 
