@@ -4,6 +4,7 @@
 
 ## Categorisation Approaches
 
+* [Overview](categorisation-approaches/overview.md)
 * [Broad vs Specific Categorisations](categorisation-approaches/broad-vs-specific-categorisations.md)
 * [Inclusive vs Exclusive Categorisations](categorisation-approaches/inclusive-vs-exclusive-categorisations.md)
 * [Unique vs Overlapping Categorisations](categorisation-approaches/unique-vs-overlapping-categorisations.md)
