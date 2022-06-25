@@ -26,7 +26,6 @@ The aggregate of all funding categorisations in a given funding round will have 
 * **Voter effort** - How much effort is required by the voter to understand the categorisation and vote on how they are used?
 * **Proposal assessor effort** - How much effort is required by the proposal assessors who will assess the categorisations?
 * **Category team effort** - How much effort is required by the category teams who suggest the categorisations?
-* **Stakeholder effort** - How much effort is required with this approach towards categorisation from all the stakeholders involved in the funding process?
 * **Categorisation justification** - How complex is it to provide justify why the categorisation should exist and why it should be selected for a given funding round? How much effort is required?
 * **Governance complexity** - How much complexity is there to govern this approach for funding categorisation?
 

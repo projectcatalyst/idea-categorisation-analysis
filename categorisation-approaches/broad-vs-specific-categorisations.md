@@ -28,11 +28,14 @@ Categorisation can be either broad and have a large amount of ideas and innovati
 
 ### **Factors to consider**
 
-* **Budget weighting complexity** - What complexity is there for deciding the budget weighting to apply to each of the categorisations in a funding round? How much effort is required and how long will it take to achieve a well informed outcome?
-* **Proposal visibility** - How easy is it for proposals to be seen? Is there high competition causing lower visibility?
+* **Budget weighting complexity** - What complexity is there for deciding budgets that should be applied to each of the funding categorisations? How difficult is it or how long will it take to produce a well informed outcome?
+* **Proposal visibility** - How easy is it for proposals to be seen? Is higher proposal numbers and competition causing lower visibility?
 * **Directing funding** - How effective is the categorisation for directing funding to certain areas?
-* **Governance effort** - How much effort is needed to govern the funding categorisations?
-* **Stakeholder effort** - How much effort is required with this approach towards categorisation from all the stakeholders involved in the funding process?
+* **Proposer effort** - How much effort is required by the proposer who will submit proposals into the categorisations that are used?
+* **Voter effort** - How much effort is required by the voter to understand the categorisation and vote on how they are used?
+* **Proposal assessor effort** - How much effort is required by the proposal assessors who will assess the categorisations?
+* **Category team effort** - How much effort is required by the category teams who suggest the categorisations?
+* **Governance complexity** - How much complexity is there to govern this approach for funding categorisation
 * **Level of competition** - What is the impact of the categorisation approach on competition? High competition can be good for selecting the best proposed ideas and innovation from a wider proposal pool but comes at the cost of making it more challenging for smaller teams. Lower competition for categorisation has the benefit of helping spread the competition difficulty that will help smaller teams but comes at the cost of an increased chance of funding innovation that is lower quality due to less competition.
 * **Adverse funding situations** - How does the categorisation approach handle situations where few proposals turn up for the categorisation or the proposals that turn up are of low quality? What happens when proposals for areas that are lower priority are a higher quality than the proposals that are focussing on areas the community considers higher priority?
 
@@ -43,9 +46,12 @@ Categorisation can be either broad and have a large amount of ideas and innovati
 **Advantages**
 
 * **No budget weighting complexity** - All funding is available in one process meaning no categorisation complexity is present in each funding round.
-* **No governance effort** - This categorisation is the most simple to govern as no decisions would be needed around justification of weightings, no data or insights need to be collected to justify one decision over another.
-* **No stakeholder effort** - Proposers, community advisors and voters would not spend anytime dealing with the maintenance of the categorisation as all proposals would go into a single place.
-* **Very effective in adverse funding situations** - No categorisations means there is much lower risks in adverse funding situations as every focus area can submit proposals. This means that only one focus area needs to provide proposals of a sufficient quality or a handful of proposers in different areas and the voter can respond to the situation accordingly. This approach does not handle the situation for when zero proposals present themselves or when all the submitted proposals are of a low quality. In that situation no categorisation approach would solve this problem and instead would need to be solved outside this process such as through increasing proposer outreach.
+* **No proposer effort** - Proposers would not need to consider multiple categorisations and would just submit proposals in a single place.
+* **No voter effort** - Voters would not need to vote on categorisation changes or budget weightings.
+* **No proposal assessor effort** - No assessments would be needed on categorisations.
+* **No category team effort** - No categorisations need to be created.
+* **Low governance complexity** - This categorisation is the most simple to govern as no decisions would be needed around justification of weightings, no data or insights need to be collected to justify one decision over another.
+* **Very effective in adverse funding situations** - No categorisations means there is much lower risks in adverse funding situations as every focus area can submit proposals. This means that only one focus area needs to provide proposals of a sufficient quality or a handful of proposers in different areas and the voter can respond to that precise situation accordingly. This approach does not handle the situation for when zero proposals present themselves or when all the submitted proposals are of a low quality. In that situation no categorisation approach would solve this problem and instead would need to be solved outside this process such as through increasing proposer outreach.
 
 **Issues**
 
@@ -61,7 +67,10 @@ Categorisation can be either broad and have a large amount of ideas and innovati
 
 * **Low budget weighting complexity** - Usage of only a few categories keeps the complexity of budget weighting decisions low due to voters only needing to determine a budget for a small number of large categorisations.
 * **Low governance effort** - Governance efforts only need to focus on the budget weighting between a small number of categories meaning less precision is needed over having a higher amount of specific categories.
-* **Low stakeholder effort** - There are a more limited amount of ways that broad categorisation can be achieved. This means that broad categorisation helps to lead to recurring categorisation that doesn't need to be defined every funding round. Due to this factor there would be less effort required to create and maintain categorisations and less effort for voters to decide which categorisations to use if they competed. A reduced number of categorisations also reduces the comparisons required between categorisations on what to use in a given funding round.&#x20;
+* **Low proposer effort** - Proposers would only need to look at a few categorisations before they need to decide where to submit their proposal.
+* **Low voter effort** - Voters would only have a small number of categorisations to compare and apply budget weightings to when voting.
+* **Low proposal assessor effort** - Only a small to moderate amount of time will be needed to assess the smaller number of broad categorisations.&#x20;
+* **Low category team effort** - Only a small number of categorisations would be created and justified. There is al a more limited amount of ways that broad categorisation can be achieved. This means that broad categorisation helps to lead to recurring categorisation that doesn't need to be defined every funding round. Less effort is required to create and maintain broad categorisations.
 * **Good competition** - The smaller the amount of categorisations there are the more competition there is between proposers. Broad categorisation is good for healthy competition but then also helps to keep some of the different areas more separated so a more popular area doesn't overwhelm proposals in focus areas that are very different. One way in which competition could be restricted with broad categories if this is an issue is to consider the usage of a separate categorisation such as [nurturing ideas & teams](broken-reference).&#x20;
 * **Effective in adverse funding situations** - Broad categories are effective in adverse situations. Situations where few or low quality proposals turn up for a given focus area are a reduced issue when there are multiple competing focus areas in the same categorisation. Broad categorisation only requires a subset of the focus areas to present impactful proposals meaning the categorisation approach is more flexible for adverse funding situations.
 
@@ -84,8 +93,11 @@ Categorisation can be either broad and have a large amount of ideas and innovati
 **Issues**
 
 * **High budget weighting complexity** - Every extra specific category makes it more complex to determine the budget weighting that should be allocated to each area in the ecosystem.
-* **High governance effort** - A sufficient governance process is needed to inform stakeholders voting on budget weighting on the implications of increasing or decreasing the funding provided to certain areas in the ecosystem.
-* **High stakeholder effort** - Stakeholders would need to generate information flow of reasons for and against increasing or decreasing funding in certain areas. This may include data, insights or analysis. Those stakeholders involved in voting for the decision would also need to read this information to make informed decisions.&#x20;
+* **Higher proposer effort** - Proposers must compare a large amount of categorisations before they can submit a proposal.
+* **Higher voter effort** - Voters must compare a large amount of categorisations and the budget weightings being applied before voting.
+* **Higher proposal assessor effort** - Assessors would require more time to go through a larger amount of categorisations.
+* **Higher category team effort** - More category teams would be needed to define specific categorisations and justify their importance over a larger amount of total categorisations.
+* **Higher governance complexity** - The more specific categorisation becomes the more complex governance is on providing justifications towards the budgets weightings that are applied to each categorisation and for voters to be able to interpret the implications of increasing or decreasing funding access to certain focus areas.
 * **Lower competition** - Increasing the amount of categories means there is less competition between each of the proposals in a given category. This increases the chance that categorisations will need to handle a weaker group of ideas and innovation which can lead to worse outcomes.
 * **Not effective in adverse funding situations** - Specific categorisations are far riskier in adverse funding situations as the more specific categorisations you have the higher chance there is that one of those focus areas has a situation where a low number or quality of proposals are submitted. In this event the specific categorisations would not be flexible to voters in allowing them to direct the funding to other areas due to the specific categorisation approach being used.
 
