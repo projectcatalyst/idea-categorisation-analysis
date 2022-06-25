@@ -24,7 +24,7 @@ Using different funding categorisation approaches is also not binary in terms of
 
 **Funding categories**
 
-* Broad - Funding categories uses four broad categories to over idea and innovation based proposals. It also adds a contributor model with two contributor based categories and an experimental category to support ideas and teams.
+* **Broad** - Funding categories uses four broad categories to over idea and innovation based proposals. It also adds a contributor model with two contributor based categories and an experimental category to support ideas and teams.
 * **Inclusive** - All forms of ideas and innovation can be submitted in funding categories.
 * **Unique** - The only current overlapping category is nurturing ideas & teams which accepts any proposal focus area but just puts a cap on the budget requested. The other categories are fully unique.
 * **Recurring** - Funding categories are pre-defined and would be used on a recurring basis. Funding categories would be updated when insights or data provide justifications for making changes.
