@@ -8,7 +8,7 @@ description: >-
 
 Funding categorisations can be created using a mixture of different approaches. These approaches often have large implications on the complexity, effort and overall costs of handling the categorisation process.
 
-Each of the following pieces of analysis in this section compare the different approaches to determine which ones are most effective. The outcome from this analysis was that the more effective approaches were determined as categorisations that leant towards being broad, inclusive, unique and recurring.
+Each of the approaches analysed in this section are compared in how they impact funding categorisation. The outcome from this analysis was that the more effective approaches were determined. These were categorisations that leant towards being broad, inclusive, unique and recurring.
 
 Funding categories have been created based on the more effective categorisation approaches. Adopting these approaches can mean making funding categorisation more simple, easy to use, efficient, scalable or egalitarian.
 
@@ -17,8 +17,6 @@ Using different funding categorisation approaches is also not binary in terms of
 
 
 ### Funding categories vs challenge settings
-
-
 
 ![](../.gitbook/assets/categorisation-approaches-comparison.png)
 
