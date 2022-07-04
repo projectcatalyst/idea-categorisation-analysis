@@ -24,7 +24,6 @@
 ## Funding Categories Analysis
 
 * [Rapid Funding](funding-categories-analysis/rapid-funding.md)
-* [Purpose Of Nurturing Ideas & Team Category](funding-categories-analysis/purpose-of-nurturing-ideas-and-team-category.md)
 * [FAQs](funding-categories-analysis/faqs/README.md)
   * [Using Categories & Challenges](funding-categories-analysis/faqs/using-categories-and-challenges.md)
 * [Concerns & Solutions](funding-categories-analysis/concerns-and-solutions/README.md)
@@ -36,6 +35,11 @@
   * [Directing Funding](funding-categories-analysis/concerns-and-solutions/directing-funding.md)
   * [Verifiability](funding-categories-analysis/concerns-and-solutions/verifiability.md)
   * [Less Specialised Challenge Teams](funding-categories-analysis/concerns-and-solutions/less-specialised-challenge-teams.md)
+
+## Experimental Categories Analysis
+
+* [Nurturing Ideas & Team Category](experimental-categories-analysis/nurturing-ideas-and-team-category.md)
+* [Community Contributors Category](experimental-categories-analysis/community-contributors-category.md)
 
 ## Categorisation Analysis
 
