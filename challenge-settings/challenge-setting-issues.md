@@ -30,7 +30,7 @@ Currently anyone can create a challenge setting proposal. This increases the ris
 
 
 
-**No comprehensive data or supporting evidence that justify categorisations**
+**Lack of comprehensive data or supporting evidence to justify categorisations**
 
 Currently proposers do not need to provide any data or supporting evidence as to why the challenge setting is needed at this precise time in the ecosystem over other areas. This increases the risks that the challenge setting may not be well justified or be a higher priority for the ecosystem over other areas.
 
