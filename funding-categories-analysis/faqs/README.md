@@ -14,13 +14,13 @@ Catalyst contributors once initiated will be who maintains and improves the Cata
 
 **Why is there only a small participation in the budget weighting vote?**
 
-The initial vote included 19 community members across a live and asynchronous vote to do the budget weighting for the seven different categories for fund 8. This was a first attempt at gathering as many community members as possible in a short time frame to democratically vote on the budget weightings for each of the categories.
+You can find the number of voting participants in each budget weighting vote in the[ funding categories documentation](https://github.com/projectcatalyst/catalyst-funding-categories). These budget weighting votes are a best effort attempt and invite all community members to participate.
 
-Currently existing challenge teams will self determine their own budget. This is an issue as it means a small challenge team has a high influence over the funding allocated to certain areas in the ecosystem. The initial community vote was one of the most open and democratically conducted vote so far for Catalyst to determine budget weightings for funding categorisation.
+Currently existing challenge teams self determine the budget for the categorisation unilaterally. This is an issue as it means a small challenge team have a high influence over the funding allocated to certain areas in the ecosystem. The community votes for funding categories currently provide the most open and democratically conducted votes so far within Catalyst to determine budget weightings for different funding categorisations.
 
-The intention for this in the future will be for Catalyst contributors to host a more wide reaching vote to include more of the community in future iterations.
+The intention for this in the future would be to integrate the budget weighting vote into the voting app so that the budget weighting process becomes part of the official process along with funding categories.
 
-****
+
 
 **Why are there so many focus areas in each category?**
 
