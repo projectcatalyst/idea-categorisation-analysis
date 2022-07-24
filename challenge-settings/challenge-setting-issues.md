@@ -28,7 +28,7 @@ The challenge setting process results in suggesting new funding categorisations 
 
 ****
 
-**Expensive process due to challenge setting, assessments and voting**
+**Expensive process due to incentives used for challenge teams, assessments and voting**
 
 Challenge setting is an expensive process as it requires incentivised input from challenge team proposers, proposal assessors, veteran proposal assessors and voters in every single funding round. These stakeholders also need to have an understanding of the wider ecosystem to make important categorisation decisions.
 
