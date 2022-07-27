@@ -34,7 +34,7 @@ Challenge setting is an expensive process as it requires incentivised input from
 
 ****
 
-**Challenging to scale**
+**Challenging to scale an increasing number of challenges**
 
 Challenge settings become more complex as they scale as if the community size increases it will likely lead to an increasing amount of challenge proposals, assessments and time needed for voters to assess and vote on those challenges. A larger amount of challenges increases the complexity of deciding between challenges making it a time and resource expensive process to scale. When coupled with an increasing amount of idea based proposals the funding process becomes increasingly complex and time consuming for the average voter to participate.
 
