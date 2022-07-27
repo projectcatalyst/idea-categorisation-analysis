@@ -58,9 +58,9 @@
   * [Fund 7](historical-analysis-and-comparisons/funding-access-for-each-focus-area/fund-7.md)
 * [Categorisation Setting Observations](historical-analysis-and-comparisons/categorisation-setting-observations/README.md)
   * [Fund 8](historical-analysis-and-comparisons/categorisation-setting-observations/fund-8.md)
-* [Categories & Previous Categorisations](historical-analysis-and-comparisons/categories-and-previous-categorisations.md)
-* [Previous Categorisations](historical-analysis-and-comparisons/previous-categorisations/README.md)
-  * [All Previous Challenge Settings](historical-analysis-and-comparisons/previous-categorisations/all-previous-challenge-settings.md)
+* [Categories & Previous Selected Categorisations](historical-analysis-and-comparisons/categories-and-previous-selected-categorisations.md)
+* [Previous Selected Categorisations](historical-analysis-and-comparisons/previous-selected-categorisations/README.md)
+  * [All Previous Challenge Settings](historical-analysis-and-comparisons/previous-selected-categorisations/all-previous-challenge-settings.md)
 
 ## Community Goals & Objectives
 

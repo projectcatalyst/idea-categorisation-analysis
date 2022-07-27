@@ -1,10 +1,10 @@
 ---
 description: >-
-  List of all the previous funding categorisations that were selected for each
-  funding round in Catalyst
+  List of all the previously selected funding categorisations from each funding
+  round in Catalyst
 ---
 
-# Previous Categorisations
+# Previous Selected Categorisations
 
 The following historical categorisations are those that were selected in the voting process to be used in the subsequent funding round.
 
