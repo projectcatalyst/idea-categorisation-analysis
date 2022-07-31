@@ -118,12 +118,6 @@ Using an increasing number of specific funding categorisations leads to reducing
 
 Challenge settings compete with one another every funding round. This makes it easier for focus areas with different ideas and innovation to be excluded from the funding process depending on the voting outcome. This means potentially impactful proposals cannot request funding. This leads to stifling innovation and progress in the ecosystem for certain focus areas. An exclusionary funding categorisation environment can also easily result in excluding minorities of the ecosystem. Minorities that have less voting power will struggle to promote and get as much success in getting categorisations that are relevant to their own goals and objectives to be voted on and selected by the community.
 
-
-
-**Complex exclusionary challenge setting decisions**
-
-Challenge settings change every funding round and this constantly changing environment can easily lead to exclusionary categorisations that do not accept certain ideas. This leads to increasing the complexity for deciding which focus areas to include and exclude for the next funding round.
-
 ****
 
 **Duplicated or overlapping challenge settings**
