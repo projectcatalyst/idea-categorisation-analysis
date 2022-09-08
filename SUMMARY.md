@@ -43,7 +43,7 @@
 
 ## Categorisation Analysis
 
-* [Combining vs Separating idea and contributor proposals](categorisation-analysis/combining-vs-separating-idea-and-contributor-proposals.md)
+* [Combining vs Separating Idea & Contributor Proposals](categorisation-analysis/combining-vs-separating-idea-and-contributor-proposals.md)
 * [Egalitarian Funding Categorisation](categorisation-analysis/egalitarian-funding-categorisation.md)
 * [Approaches For Directing Funding](categorisation-analysis/approaches-for-directing-funding.md)
 * [Focus Area Categorisation Approaches](categorisation-analysis/focus-area-categorisation-approaches.md)
