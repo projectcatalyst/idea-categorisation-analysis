@@ -14,6 +14,13 @@ Funding categories have been created based on the more effective categorisation 
 
 Using different funding categorisation approaches is also not binary in terms of implementation. A given approach can sit somewhere between each end of a sliding scale. For instance for broad versus specific categorisation approaches the use of a single categorisation would represent the most broad it can be. Two categorisations is slightly less broad than that. Three categorisations would be even less broad, and so on.
 
+There four main approaches for categorisations to consider are:
+
+* [Broad vs Specific Categorisations](broad-vs-specific-categorisations.md)
+* [Inclusive vs Exclusive Categorisations](inclusive-vs-exclusive-categorisations.md)
+* [Unique vs Overlapping Categorisations](unique-vs-overlapping-categorisations.md)
+* [Recurring vs Changing Categorisations](recurring-vs-changing-categorisations.md)
+
 
 
 ### Funding categories vs challenge settings
