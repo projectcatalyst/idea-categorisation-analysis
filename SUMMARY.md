@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [What Is Funding Categorisation?](what-is-funding-categorisation.md)
 
 ## Categorisation Approaches
 
