@@ -28,7 +28,7 @@ Each funding categorisation used in a funding round will have an allocated maxim
 
 Funding categorisations determine what incentives exist for the community to participate in an ecosystem. Categorisations determine what ideas will be considered for funding and what type of contributor can be funded.
 
-The categorisations used in for a given funding round will determine which focus areas receive access to funding and which areas don’t. Categorisations will determine what exact funding each area has access to.
+The categorisations used in a given funding round will determine which focus areas receive access to funding and which areas don’t. Categorisations will determine what exact funding each area has access to.
 
 Both of these factors are why funding categorisation is important. Categorisations determine what areas can be stifled due to a lack of funding and which areas have more chance to flourish due to better access to funding.
 
