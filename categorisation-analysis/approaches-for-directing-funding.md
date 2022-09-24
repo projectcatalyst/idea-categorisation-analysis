@@ -1,20 +1,22 @@
 ---
 description: >-
-  Exploring ways that could be used to more effectively direct funding than just
-  using challenge settings
+  Exploring others ways that could be used to more effectively direct funding
+  than just through funding categorisations
 ---
 
 # Approaches For Directing Funding
 
-Broad, inclusive and recurring funding categorisation has the benefit of bringing simplicity to the funding process by helping lower governance and stakeholder effort that is required. A key concern that also needs to be discussed is how the community can effectively direct funding to priority areas in the ecosystem. Those areas could be Africa, DeFi, gaming, social networks or anything else that the community believes is highest priority to receive support and funding.
+Using broad, inclusive, recurring and unique funding categorisations brings the benefit of simplicity to the funding process by lowering the required governance and stakeholder effort.&#x20;
+
+Although there are many benefits a key concern that needs to be addressed is how the community can effectively direct funding to priority areas in the ecosystem. Those areas could be Africa, DeFi, gaming, social networks or anything else that the community believes is highest priority to receive support and funding.
 
 
 
 There are a number of ways that the community can help to direct funding to specific areas in the ecosystem.&#x20;
 
-![Alternative approaches to directing funding than challenge setting](../.gitbook/assets/directing-funding.png)
+<figure><img src="../.gitbook/assets/directing-funding.png" alt=""><figcaption><p> <strong>Approaches that can help with directing funding</strong></p></figcaption></figure>
 
-Challenge setting is the only approach for directing funding that places a requirement on what types of ideas and innovation can be submitted to the funding process. The other remaining options help to direct funding by improving the information flow to the voters through the use of better tools, data, analysis and governance.
+Challenge setting is the only approach for directing funding that places a requirement on what types of ideas and innovation can be submitted. The other remaining options list above all help to direct funding by improving the information flow to the voters through the use of better tools, data, analysis and governance.
 
 Some of these approaches could be achieved likely in the short term (in the next 6 months) and some in the medium term (6 to 18 months). **** Rough approximations for execution have been applied below.
 
@@ -43,6 +45,12 @@ Proposal tagging would help with directing funding as the better that proposals 
 Putting together a curated list helps to bring awareness to voters around certain proposals that are focused on a certain topic, cause or could just potentially meet a certain quality standard. Community representatives or experts with skill, ecosystem or other domain based knowledge could be useful candidates for putting these lists together. Curated lists can be distributed at anytime during the funding process to give people more information on certain proposals which would help to direct funding to proposals where the voter agrees with any proposals that were highlighted.
 
 
+
+**Proposal standards** (Short term achievable)
+
+Proposal standards would look to formalise the content that goes into proposals and consider what information is most crucial and valuable to understand, asses and compare proposals. Standards could also take into account differences between proposal types and cater to those differences. The benefit of proposal standards for directing funding is that it would help to create better data structures which can then be better compared, filtered or sorted in the voting stage. The easier it is for voters to view, sort, filter and compare proposals the easier it will be for them to identify the proposals they believe will be the most impactful.
+
+****
 
 **Presenting current ecosystem data** (Medium term achievable)
 
@@ -80,9 +88,15 @@ Cardano will continuously face a different range of problems that could slow the
 
 
 
+**Insight sharing** (Medium to long term achievable)
+
+Adding better insight sharing tools and processes will mean helping the community to more easily share and report on any relevant data, information or general insights happening inside or outside the ecosystem. The better informed the community is on everything that is happening the more they can take that information to make more informed voting decisions on where to best allocate treasury funding.
+
+
+
 ### Summary&#x20;
 
-* The existing process of using challenge settings to direct funding has a number of issues with how it can cause restrictions for funding to reach certain areas and is also not effective at being egalitarian to all types of ideas.
-* There are many alternatives approaches for directing funding that can be integrated to help drive awareness to important ideas and innovations. These alternatives can help achieve the same goal of helping the community have ways to effectively direct funding to priority areas.
+* Using challenge settings as a way to direct funding has a number of issues with how it can cause restrictions for funding to reach certain areas and that it is not egalitarian to all types of idea.
+* There are many alternatives approaches to help with directing funding that can be integrated into the funding process to help drive awareness to important ideas and innovations. These alternatives can help achieve the same goal of helping the community have ways to effectively direct funding to priority areas.
 * Proposal tagging, curated lists and presenting catalyst funded proposal or existing ecosystem product data are effective short to medium term approaches as they improve information flow  to help voters make well informed decisions in the voting process.
 * Proposal interaction, feedback and sentiment data and community priority or problem based voting offer a promising approach for regularly getting distributed and democratic feedback from the community on the problems, proposals and priorities the ecosystem should be considering. The results and data from these community votes can be effectively integrated into the funding governance process so that the community is fully informed.
