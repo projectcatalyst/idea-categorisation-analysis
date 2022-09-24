@@ -14,7 +14,7 @@ There are a number of ways that the community can help to direct funding to spec
 
 ![Alternative approaches to directing funding than challenge setting](../.gitbook/assets/directing-funding.png)
 
-Challenge setting is the only approach for directing funding that places a requirement on what types of ideas and innovation can be submitted to the funding process. The remainder help to direct funding by improving the information flow to the voters through the use of data, analysis and governance.
+Challenge setting is the only approach for directing funding that places a requirement on what types of ideas and innovation can be submitted to the funding process. The other remaining options help to direct funding by improving the information flow to the voters through the use of better tools, data, analysis and governance.
 
 Some of these approaches could be achieved likely in the short term (in the next 6 months) and some in the medium term (6 to 18 months). **** Rough approximations for execution have been applied below.
 

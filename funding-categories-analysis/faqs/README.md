@@ -36,7 +36,7 @@ No individual or group manages the Catalyst or Cardano contributors. Once electe
 
 **How will category teams be effective when there are bigger budgets and more focus areas?**
 
-There will be only so much that a category team can do to support a wider range of ideas and innovation with an increased amount of proposals. To resolve this concern we've highlighted the impact of having [less specialised challenge teams](../concerns-and-solutions/less-specialised-challenge-teams.md) which describe how category teams can be used along with experts or topic focussed community groups to support more specialised issues around a certain topic area.
+There will be only so much that a category team can do to support a wider range of ideas and innovation with an increased amount of proposals. To resolve this concern we've highlighted the impact of having [less specialised challenge teams](../addressing-concerns-and-challenging-funding-situations/less-specialised-challenge-teams.md) which describe how category teams can be used along with experts or topic focussed community groups to support more specialised issues around a certain topic area.
 
 
 

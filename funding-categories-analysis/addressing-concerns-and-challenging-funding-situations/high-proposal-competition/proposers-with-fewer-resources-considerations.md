@@ -9,7 +9,7 @@ Provide increased support to proposers who have less resources to compete effect
 **Considerations**
 
 * **Inclusion list** - If a category was to solve this problem it should define who should be included when making proposals. This could be taken from an existing list such as United Nations [least developed countries](https://unctad.org/topic/least-developed-countries/list) or usage of another suitable data source.
-* **Capped proposal funding request** - The purpose of this categorisation, if the category was established, would be to support those that need more support in the funding process. To maximise the number of people that this category supports it may make sense to have a cap, such as $30,000 to 50,000 per proposal. This ensures that many proposals are funded from different people who face this problem of it being more difficult to get access to funding.
+* **Capped proposal funding request** - The purpose of this categorisation, if the category was established, would be to support those that need more support in the funding process. To maximise the number of people that this category supports it may make sense to have a cap, such as $30,000 to $50,000 per proposal. This ensures that many proposals are funded from different people who face this problem of it being more difficult to get access to funding.
 * **Proposal types included** - As this category would aim to support those with less resources to competitively propose solutions it will make sense to allow all forms of ideas and solutions. This means that any type of proposal can be submitted and proposers compete on the strength of their proposal. These same proposers would also be welcomed to use the other [categories](broken-reference) as well as an alternative if necessary.
 
 
