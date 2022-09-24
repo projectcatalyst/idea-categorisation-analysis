@@ -48,18 +48,18 @@ If executed to a high standard these reports could be effective for inspiring ne
 
 
 
-**Priority voting and problem voting**
+**Community priority and problem voting**
 
 Doing democratic votes from the community on which problems exist or what goals and objectives can be considered and which of these are the most important in the short term could be a great way to indicate what idea would make good proposals in an upcoming Catalyst funding process.
 
 
 
-**Insight sharing tools**
+**Insight sharing tools & processes**
 
 Data and insights tools would be valuable to help see what is happening both inside and outside the ecosystem. Having a range of insights on what is happening can help with the generation of new ideas.
 
 
 
-**Community events and processes**
+**Community events and discussions**
 
 Idea generation can be achieved in a multitude of ways. One other way that the community can help to increase idea flow for the creation of relevant proposals is to host events or create processes that help the community come together and share ideas to collaborate on what areas could benefit most from further effort. These events can help lead to ideas and collaborations that resolve ecosystem problems.

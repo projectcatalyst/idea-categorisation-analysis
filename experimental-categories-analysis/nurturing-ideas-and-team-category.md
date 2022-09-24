@@ -10,7 +10,7 @@ description: >-
 
 ****[**Nurturing Ideas & Team category**](https://docs.catalystcontributors.org/catalyst-funding-categories/funding-categories/nurturing-ideas-and-teams)
 
-The nurturing ideas & teams category puts a restriction on the funding request size of the proposals that can be submitted and then also welcomes all forms of idea and innovation that are related to Cardano.
+The nurturing ideas & teams category puts a restriction on the funding request size of the proposals that can be submitted**.** Any idea related to Cardano can be submitted in the category!
 
 
 
@@ -49,4 +49,5 @@ Analysis will be needed to look at how funding categories are used and what outc
 
 * **Flexible** - People can suggest anything they want in the nurturing ideas and teams category so it maximises that chances the community gets to see new and interesting ideas or suggestions.
 * **Increased funded proposal diversity** - The maximum cap on proposal budget should help increase diversity of who gets funded by increasing the number of proposals that will be selected after the vote for funding.
-* **New ideas** - There may be ideas that are not well covered under the four main categories which get suggested in this category. The other four main categories are meant to be inclusive of all ideas and innovation so if this occurs it would be more of a mistake of clarity rather than actual intention.
+* **New ideas & more experimentation** - There may be ideas that are not well covered under the four main categories which get suggested in this category. The other four main categories are meant to be inclusive of all ideas and innovation so if this occurs it would be more of a mistake of clarity rather than actual intention. The max cap on the budget size for the proposal helps to increase the number of funded proposals which will help to increase the rate of experimentation.
+* **Lower competition & guaranteed number of proposals funded** - Putting a cap on the proposal size helps to limit more well established players from taking a large part of the budget allocated and helps to guarantee a certain number of proposals will be funded using the categorisation. &#x20;

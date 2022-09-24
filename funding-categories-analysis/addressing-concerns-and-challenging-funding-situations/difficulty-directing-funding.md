@@ -26,10 +26,6 @@ Funding categorisations impact how funding is directed to initiatives as the fun
 
 
 
-**Apply other approaches to direct funding**
+**Integrate any of the many approaches that help with directing funding**
 
-Using broad and inclusive categorisation helps to simplify the funding process drastically but can come at the expense of precision in how funding is directed unless the right tools and processes are in place.&#x20;
-
-Without those tools and processes the most powerful option to decide where to direct funding - their vote!
-
-Outside of funding categorisation there is a large number of [approaches for directing funding](../../categorisation-analysis/approaches-for-directing-funding.md) that can be considered and integrated into the voting process to help with directing funding. These approaches help prevent the need for the community to use exclusive and specific categorisation approaches that are more complex to handle and scale.&#x20;
+Using broad and inclusive categorisation helps to simplify the funding process drastically but can come at the expense of precision in how funding is directed unless the right tools and processes are in place. Without those tools and processes the most powerful option to decide where to direct funding - their vote! Outside of funding categorisation there is a large number of [approaches for directing funding](../../categorisation-analysis/approaches-for-directing-funding.md) that can be considered and integrated into the voting process to help with directing funding. These approaches help prevent the need for the community to use exclusive and specific categorisation approaches that are more complex to handle and scale.&#x20;

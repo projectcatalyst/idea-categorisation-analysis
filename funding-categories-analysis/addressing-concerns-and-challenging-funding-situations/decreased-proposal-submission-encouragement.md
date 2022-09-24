@@ -40,9 +40,9 @@ Even if the categorisations aren't specific in exactly what focus areas can subm
 
 ****
 
-**Priority consensus voting**
+**Community priority and problem voting**
 
-Using democratic voting the community could indicate which areas of the ecosystem they believe are currently the highest priority. This information for a proposal could help to generate the confidence and support that they should submit a proposal if their project matches the priorities of the community vote. The benefit of this approach is also that the priority vote outcome doesn't create a mandate on funding allocation. The community is free to change their mind, not agree with the suggest proposal or even reprioritise if there is a need to do so. This prevents the risk of stagnating the funding distribution in events where no proposal opportunities turn up in the short term. The priority consensus voting can also be integrated into the voting experience to influence the ranking of proposals. Influencing the ranking of proposals based on priority further increases the incentive to propose solutions to the most prioritised focus areas.
+Doing democratic votes from the community on which problems exist or what goals and objectives should be prioritised helps to provide insight into what the community is most interested in seeing proposals for. If this information is easily accessible then it helps to encourage proposers to submit proposals as solutions when they know the community is already looking for proposals that address these areas. The benefit of this approach is also that the prioritised goals, objectives or problems don't create any mandates on funding allocation. The community is free to change their mind, not agree with the suggested proposals or even reprioritise if there is a need to do so at anytime. This prevents the risk of stagnating the distribution of funding in events where no proposal opportunities turn up in the short term. The problem and priority voting can also be integrated into the voting experience to influence the ranking of proposals. Using the priorities to influence the ranking of proposals further increases the incentive to propose solutions to the most prioritised focus areas.
 
 ****
 
