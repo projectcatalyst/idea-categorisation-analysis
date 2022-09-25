@@ -15,9 +15,13 @@ The following is a list of different problems that could exist or that should at
 **Problems to consider:**
 
 * ****[High Proposal Competition](high-proposal-competition/)&#x20;
-* [Proposal Visibility](low-proposal-visibility.md)
-* [Proposal Idea Generation](reducing-idea-generation.md)
-* [Proposal Submission Encouragement](decreased-proposal-submission-encouragement.md)
-* [Directing Funding](difficulty-directing-funding.md)
-* [Verifiability](lower-verifiability.md)
+* [Low Proposal Visibility](low-proposal-visibility.md)
+* [Reducing Idea Generation](reducing-idea-generation.md)
+* [Decreased Proposal Submission Encouragement](decreased-proposal-submission-encouragement.md)
+* [Difficulty Directing Funding](difficulty-directing-funding.md)
+* [Reduced Verifiability](reduced-verifiability.md)
 * [Less Specialised Challenge Teams](less-specialised-challenge-teams.md)
+* [Not Enough Proposals Submitted](not-enough-proposals-submitted.md)
+* [Low Quality Proposals](low-quality-proposals.md)
+* [High Quality Proposals Cannot Be Submitted](high-quality-proposals-cannot-be-submitted.md)
+* [Excessive Funding Requests](excessive-funding-requests.md)
