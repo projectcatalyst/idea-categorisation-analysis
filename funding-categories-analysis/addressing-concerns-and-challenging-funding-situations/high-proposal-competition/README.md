@@ -9,7 +9,7 @@ description: >-
 
 ### Problem
 
-Proposers who are new to the ecosystem or that have fewer resources may find it more difficult to get exposure and funding in a competitive funding environment where many proposals are submitted.
+Funding categorisations impact the number of proposals that can be submitted into the categorisations. A large amount of proposals can create a very competitive environment for proposers. Proposers who are new to the ecosystem or that have fewer resources may find it more difficult to get exposure and funding where there is a large amount of proposals being submitted.
 
 ****
 
@@ -52,10 +52,10 @@ A wide range of approaches have been detailed in the [approaches for directing f
 
 **Proposal submission limitations**
 
-Sometimes the competition from proposals could be too high as teams are submitting multiple proposals. If the number of proposals from individual teams proves to be an issue maximum caps could be introduced for the amount of proposals a team can submit or the amount of funding that a team can request. Or it could be a mixture of both approaches. These caps would help to ensure there is a fair playing field which is scalable so everyone can participate.
+Sometimes the competition from proposals could be too high as teams are submitting multiple proposals. If the number of proposals from individual teams proves to be an issue maximum caps could be introduced for the amount of proposals a team can submit or the amount of funding that a team can request. Or it could be a mixture of both approaches. These caps would help to ensure there is a fair playing field which is scalable so everyone can participate. [Excessive funding requests](../excessive-funding-requests.md) is also covered more as a separate problem.
 
 
 
 **Dedicated funding category for smaller teams or ideas**
 
-The potential issue with the other suggested solutions is these solutions won't all be available in the very short term. The [nurturing ideas & teams](broken-reference) funding category has been made to help address the potential issues for newcomers or proposers with fewer resources being able to get access to funding. [Analysis about nurturing ideas & teams](../../../experimental-categories-analysis/nurturing-ideas-and-team-category.md) has been created to outline some of the advantages and issues with the category and why it is being suggested.
+The potential issue with these other suggested solutions is these solutions won't all be available in the very short term. The [nurturing ideas & teams](broken-reference) funding category has been made to help address the potential issues for newcomers or proposers with fewer resources being able to get access to funding. [Analysis about nurturing ideas & teams](../../../experimental-categories-analysis/nurturing-ideas-and-team-category.md) has been created to outline some of the advantages and issues with the category and why it is being suggested.
