@@ -6,17 +6,17 @@ description: Explaining what funding categorisation is and why it is important
 
 ### What is funding categorisation?
 
-A funding categorisation is an incentive structure that allows people to request funding for initiatives they want to work on.&#x20;
+Funding categorisations are incentive structures that allow people to request funding for initiatives they want to contribute towards.&#x20;
 
-Those initiatives will need to match the purpose and scope of the funding categorisation.
+Initiatives submitted as proposals will need to match the purpose and scope of the funding categorisation to be considered.
 
-Funding categorisations can be focussed on funding ideas that someone wants to execute or for funding contributors looking to work in the ecosystem.
+Funding categorisations can be focussed on funding ideas that someone wants to execute or for funding contributors that are looking to work in the ecosystem.
 
-Idea based funding categorisations will group together certain focus areas. Examples focus areas could include DeFi, events or identity tools & software.
+Idea based funding categorisations will group together certain focus areas into each categorisation. Examples focus areas could include DeFi, events or identity tools & software.
 
-The community will use funding categorisations by submitting proposals into a categorisation with either the idea they intend to execute or what they would like to work on as a contributor.
+The community uses funding categorisations by submitting proposals into each categorisations that gets used in a funding round with proposals about either the idea they intend to execute or what they would like to work on as a contributor depending on the categorisation.
 
-At the voting stage the community would compare the proposals submitted into a categorisation and vote on which proposals they would like to receive funding.
+At the voting stage the community would compare the proposals submitted in each categorisation to then vote on which proposals they would like to receive funding.
 
 Funding categorisations are used in funding rounds. Funding rounds will have a total available budget for incentivising high impact initiatives.
 
