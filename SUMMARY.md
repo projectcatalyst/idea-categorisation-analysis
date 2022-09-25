@@ -36,6 +36,8 @@
   * [Difficulty Directing Funding](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/difficulty-directing-funding.md)
   * [Lower Verifiability](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/lower-verifiability.md)
   * [Less Specialised Challenge Teams](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/less-specialised-challenge-teams.md)
+  * [Not Enough Proposals Submitted](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/not-enough-proposals-submitted.md)
+  * [Low Quality Proposals](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/low-quality-proposals.md)
 
 ## Experimental Categories Analysis
 

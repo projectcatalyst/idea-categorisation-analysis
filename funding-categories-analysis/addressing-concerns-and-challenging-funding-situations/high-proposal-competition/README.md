@@ -9,7 +9,7 @@ description: >-
 
 ### Problem
 
-Proposers who are new to the ecosystem or that have fewer resources may find it more difficult to get exposure and funding in a competitive funding environment. Categorisations that increase competition such as broad categorisations could greatly increase the challenge for certain proposals to receive funding.&#x20;
+Proposers who are new to the ecosystem or that have fewer resources may find it more difficult to get exposure and funding in a competitive funding environment where many proposals are submitted.
 
 ****
 
@@ -47,6 +47,12 @@ Funding categorisation can impact the amount of competition between proposals an
 **Integrate any of the many approaches that help with directing funding**
 
 A wide range of approaches have been detailed in the [approaches for directing funding](../../../categorisation-analysis/approaches-for-directing-funding.md) analysis. These are all relevant for making it easier to view, group, compare, filter, sort and rank proposals which means they can help with making it fairer and easier for each proposal to get fair consideration by how easy it is to find certain types or ones with specific focuses.
+
+
+
+**Proposal submission limitations**
+
+Sometimes the competition from proposals could be too high as teams are submitting multiple proposals. If the number of proposals from individual teams proves to be an issue maximum caps could be introduced for the amount of proposals a team can submit or the amount of funding that a team can request. Or it could be a mixture of both approaches. These caps would help to ensure there is a fair playing field which is scalable so everyone can participate.
 
 
 
