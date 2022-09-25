@@ -34,7 +34,7 @@ Catalyst as a funding process needs to be careful in how it incentivises more pr
 
 ****
 
-**Broad categorisations**
+**Broad categorisations still provide a big incentive**
 
 Even if the categorisations aren't specific in exactly what focus areas can submit proposals there is still a large incentive for a team to submit a proposal for what they are working on in a broad categorisation due to the incentive to be funded for that work.
 

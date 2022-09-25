@@ -38,6 +38,8 @@
   * [Less Specialised Challenge Teams](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/less-specialised-challenge-teams.md)
   * [Not Enough Proposals Submitted](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/not-enough-proposals-submitted.md)
   * [Low Quality Proposals](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/low-quality-proposals.md)
+  * [High Quality Proposals Cannot Be Submitted](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/high-quality-proposals-cannot-be-submitted.md)
+  * [Excessive Funding Requests](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/excessive-funding-requests.md)
 
 ## Experimental Categories Analysis
 

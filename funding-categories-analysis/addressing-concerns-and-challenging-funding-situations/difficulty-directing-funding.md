@@ -8,7 +8,7 @@ description: >-
 
 ### Problem
 
-Broad categorisations could make it more difficult to direct funding to specific areas of the ecosystem and exclusive categorisations could lead to good ideas that are unable to apply for funding.
+There are situations where funding categorisations could make it more difficult to direct funding such as when there is too many proposals or there is limited ability to redirect funding when quality proposals don't get submitted for certain focus areas. Funding categorisations impact how easy it is to direct funding between multiple ideas and how flexible it is for voters to allocate their vote in different situations.
 
 
 
@@ -25,6 +25,24 @@ Funding categorisations impact how funding is directed to initiatives as the fun
 ### Potential Solutions
 
 
+
+**Broad categorisations**
+
+Broad categorisations can increase the amount of proposals submitted in a single categorisation which helps to give the voter more options at the voting stage on where to direct funding. There is increase complexity on proposal visibility and comparing proposals however this is covered below with the other [approaches that help with directing funding](../../categorisation-analysis/approaches-for-directing-funding.md).
+
+****
+
+**Inclusive categorisations**
+
+Inclusive categorisations help to maximise the ideas that can be submitted into the categorisations and give the voter more choices on how they want to direct funding. Inclusive categorisation increases the complexity of deciding where to allocate funding at the voting stage however this problem can be improved using the [approaches to direct funding](../../categorisation-analysis/approaches-for-directing-funding.md) covered below.
+
+
+
+**Unique categorisations**
+
+Unique categorisations help with directing funding as it makes clear where certain proposal types and focus areas get submitted. This then means they can be compared in a single place and more informed decisions can be made on where to direct funding.
+
+****
 
 **Integrate any of the many approaches that help with directing funding**
 
