@@ -40,6 +40,7 @@
   * [Low Quality Proposals](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/low-quality-proposals.md)
   * [High Quality Proposals Cannot Be Submitted](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/high-quality-proposals-cannot-be-submitted.md)
   * [Excessive Funding Requests](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/excessive-funding-requests.md)
+* [Review Of Paper “A Treasury System for Cryptocurrencies"](funding-categories-analysis/review-of-paper-a-treasury-system-for-cryptocurrencies.md)
 
 ## Experimental Categories Analysis
 
