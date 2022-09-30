@@ -10,23 +10,6 @@ The following historical categorisations are those that were selected in the vot
 
 
 
-**Fund 9**
-
-* [The Great Migration (from Ethereum)](https://cardano.ideascale.com/c/campaigns/26593/about)
-* [DAOs <3 Cardano](https://cardano.ideascale.com/c/campaigns/26594/about)
-* [Dapps, Products & Integrations](https://cardano.ideascale.com/c/campaigns/26595/about)
-* [Legal & Financial Implementations](https://cardano.ideascale.com/c/campaigns/26596/about)
-* [Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/26597/about)
-* [Cross-Chain Collaboration](https://cardano.ideascale.com/c/campaigns/26598/about)
-* [Challenge & Scouted for Students](https://cardano.ideascale.com/c/campaigns/26599/about)
-* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26600/about)
-* [dRep improvement and onboarding](https://cardano.ideascale.com/c/campaigns/26601/about)
-* [Grow East Asia, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26602/about)
-* [Building (on) Blockfrost](https://cardano.ideascale.com/c/campaigns/26603/about)
-* [Catalyst Natives X Cardashift: Demonstrating and monetizing impact](https://cardano.ideascale.com/c/campaigns/26605/about)
-
-
-
 **Fund 8**
 
 * [Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/26433/about)

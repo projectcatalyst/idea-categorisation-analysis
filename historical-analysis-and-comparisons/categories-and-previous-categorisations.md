@@ -10,6 +10,10 @@ Every existing previously selected funding categorisation created through challe
 
 &#x20;**Community & Outreach**
 
+* [Grow East Asia, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26602/about) (fund 9)
+* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26600/about) (fund 9)
+* [Challenge & Scouted for Students](https://cardano.ideascale.com/c/campaigns/26599/about) (fund 9)
+* [Cross-Chain Collaboration](https://cardano.ideascale.com/c/campaigns/26598/about) (fund 9)
 * [Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about) (fund 8)
 * [Film + Media (FAM) creatives unite!](https://cardano.ideascale.com/c/campaigns/26452/about) (fund 8)
 * [New Member Onboarding](https://cardano.ideascale.com/c/campaigns/26450/about) (fund 8)
@@ -40,6 +44,15 @@ Every existing previously selected funding categorisation created through challe
 
 **Products & Integrations**
 
+* [Building (on) Blockfrost](https://cardano.ideascale.com/c/campaigns/26603/about) (fund 9)
+* [Grow East Asia, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26602/about) (fund 9)
+* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26600/about) (fund 9)
+* [Challenge & Scouted for Students](https://cardano.ideascale.com/c/campaigns/26599/about) (fund 9)
+* [Cross-Chain Collaboration](https://cardano.ideascale.com/c/campaigns/26598/about) (fund 9)
+* [Legal & Financial Implementations](https://cardano.ideascale.com/c/campaigns/26596/about) (fund 9)
+* [Dapps, Products & Integrations](https://cardano.ideascale.com/c/campaigns/26595/about) (fund 9)
+* [DAOs <3 Cardano](https://cardano.ideascale.com/c/campaigns/26594/about) (fund 9)
+* ****[The Great Migration (from Ethereum)](https://cardano.ideascale.com/c/campaigns/26593/about) (fund 9)
 * [Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about) (fund 8)
 * [The Great Migration (from Ethereum)](https://cardano.ideascale.com/c/campaigns/26448/about) (fund 8)
 * [Business Solutions (B2B & B2C)](https://cardano.ideascale.com/c/campaigns/26445/about) (fund 8)
@@ -78,6 +91,10 @@ Every existing previously selected funding categorisation created through challe
 
 **Governance & Identity**
 
+* [Grow East Asia, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26602/about) (fund 9)
+* [dRep improvement and onboarding](https://cardano.ideascale.com/c/campaigns/26601/about) (fund 9)
+* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26600/about) (fund 9)
+* [DAOs <3 Cardano](https://cardano.ideascale.com/c/campaigns/26594/about) (fund 9)
 * ****[Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about) (fund 8)
 * [Community Advisor Improvements](https://cardano.ideascale.com/c/campaigns/26453/about) (fund 8)
 * [Self-Sovereign Identity](https://cardano.ideascale.com/c/campaigns/26451/about) (fund 8)
@@ -117,6 +134,12 @@ Every existing previously selected funding categorisation created through challe
 
 **Development & Infrastructure**
 
+* [Building (on) Blockfrost](https://cardano.ideascale.com/c/campaigns/26603/about) (fund 9)
+* [Grow East Asia, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26602/about) (fund 9)
+* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26600/about) (fund 9)
+* [Cross-Chain Collaboration](https://cardano.ideascale.com/c/campaigns/26598/about) (fund 9)
+* [Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/26597/about) (fund 9)
+* ****[The Great Migration (from Ethereum)](https://cardano.ideascale.com/c/campaigns/26593/about) (fund 9)
 * [Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about) (fund 8)
 * [Open Standards & Interoperability](https://cardano.ideascale.com/c/campaigns/26449/about) (fund 8)
 * [The Great Migration (from Ethereum)](https://cardano.ideascale.com/c/campaigns/26448/about) (fund 8)
@@ -158,4 +181,5 @@ This category is open to any idea from the community so all previous challenges 
 
 **Catalyst Natives**
 
+* [Catalyst Natives X Cardashift: Demonstrating and monetizing impact](https://cardano.ideascale.com/c/campaigns/26605/about) (fund 9)
 * [Catalyst Natives COTI: Pay with ADA Plug-in](https://cardano.ideascale.com/c/campaigns/26256/about) (fund 7)

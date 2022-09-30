@@ -4,18 +4,6 @@ description: List of every challenge setting suggested by the community
 
 # All Previous Challenge Settings
 
-**Fund 9**
-
-* [Fund 10 challenge setting](https://cardano.ideascale.com/c/campaigns/26604/about)
-
-
-
-**Fund 8**
-
-* [Fund 9 challenge setting](https://cardano.ideascale.com/c/campaigns/26455/about)
-
-
-
 **Fund 7**
 
 * ****[Fund 8 challenge setting](https://cardano.ideascale.com/c/campaigns/26257/about)
