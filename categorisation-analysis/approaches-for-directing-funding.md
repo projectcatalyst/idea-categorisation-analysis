@@ -34,6 +34,18 @@ The other main issue for challenge setting as a way to direct funding is it lead
 
 ### **Alternative approaches**
 
+**Proposal assessments** (In progress)
+
+The Catalyst funding process is already using a process to assess proposals. This process is still in its very early stages and is not based on a lot of analysis and research. One area that will be important to help with improving the approach of proposal assessments is by defining proposal standards that help to analyse what makes a good proposal structure with what information is most needed. Determining where to apply objective and factual assessment as well as expert review is another area that needs further work to determine how proposals can be assessed both efficiently and effectively. Proposal assessments can help to direct funding by giving the voters more information about the overall quality of the proposal against different factors such as how feasible or auditable the proposal is.
+
+****
+
+**Delegated Representatives** (In progress)
+
+The first version of using delegated representatives is already in progress and will be used in upcoming funding rounds. Delegated representatives will allow a voter to delegate their voting power to another community member to make the vote on their behalf. This helps individuals who do not have the time or capacity to do a vote themselves and would like to participate by finding and trusting an individual who represents their views. In future evolutions of delegated representatives the implementation will become more precise so people are able to delegate their voting power for certain focus areas in the ecosystem. This allows them to focus on voting on the areas they know or are passionate about and delegate voting power to others they trust for areas they don't have the same expertise or capacity to participate in. Delegated representatives help with directing funding as it provides a path for experts on certain areas to be compensated for spending time trying to effectively vote on which initiatives could be the most impactful.
+
+
+
 **Proposal tagging** (Short term achievable)
 
 Proposal tagging would help with directing funding as the better that proposals can be tagged with the relevant topics and areas the better that voting tools can allow people to filter proposals. The easier this is the more people can ensure they vote on areas that they believe are most important. This is an important area to integrate when using broader categorisation so it's still easy to traverse a larger number of proposals.
