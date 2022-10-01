@@ -23,6 +23,12 @@ Overall cost comparisons for categorisation approaches in different funding roun
 
 
 
+**Fund 9**&#x20;
+
+<figure><img src="../../.gitbook/assets/overall-costs-fund-9.png" alt=""><figcaption></figcaption></figure>
+
+****
+
 **Fund 8**
 
 ![](../../.gitbook/assets/overall-costs-fund-8.png)
