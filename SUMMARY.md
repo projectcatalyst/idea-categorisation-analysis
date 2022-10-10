@@ -41,7 +41,7 @@
   * [Low Quality Proposals](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/low-quality-proposals.md)
   * [High Quality Proposals Cannot Be Submitted](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/high-quality-proposals-cannot-be-submitted.md)
   * [Excessive Funding Requests](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/excessive-funding-requests.md)
-* [Alternative idea funding categorisations](funding-categories-analysis/alternative-idea-funding-categorisations/README.md)
+* [Alternative Idea Funding Categorisations](funding-categories-analysis/alternative-idea-funding-categorisations/README.md)
   * [One categorisation](funding-categories-analysis/alternative-idea-funding-categorisations/one-categorisation.md)
   * [Three categorisations](funding-categories-analysis/alternative-idea-funding-categorisations/three-categorisations.md)
   * [Four categorisations (Recommended)](funding-categories-analysis/alternative-idea-funding-categorisations/four-categorisations-recommended.md)

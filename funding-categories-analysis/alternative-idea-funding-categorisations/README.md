@@ -4,7 +4,7 @@ description: >-
   potential implications of each approach
 ---
 
-# Alternative idea funding categorisations
+# Alternative Idea Funding Categorisations
 
 The current recommended approach for supporting idea based proposals is to use four idea based categorisations in the initial implementation of funding categories. The two main alternatives worth considering is using a single idea funding categorisation or using three idea funding categorisations.
 
