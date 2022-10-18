@@ -6,7 +6,7 @@ description: Fund 9 funding access for different focus areas
 
 ### Funding access for different focus areas
 
-![](<../../.gitbook/assets/fund-9-funding-access (2).png>)
+<figure><img src="../../.gitbook/assets/fund-9-funding-access.png" alt=""><figcaption></figcaption></figure>
 
 ### **Funding categories equivalent**
 

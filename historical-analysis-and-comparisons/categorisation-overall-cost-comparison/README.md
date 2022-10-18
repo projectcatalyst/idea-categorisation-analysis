@@ -31,19 +31,19 @@ Overall cost comparisons for categorisation approaches in different funding roun
 
 **Fund 8**
 
-![](../../.gitbook/assets/overall-costs-fund-8.png)
+<figure><img src="../../.gitbook/assets/overall-costs-fund-8.png" alt=""><figcaption></figcaption></figure>
 
 ****
 
 **Fund 7**
 
-![](../../.gitbook/assets/overall-costs-fund-7.png)
+<figure><img src="../../.gitbook/assets/overall-costs-fund-7.png" alt=""><figcaption></figcaption></figure>
 
 ****
 
 **Fund 6**
 
-![](../../.gitbook/assets/overall-costs-fund-6.png)
+<figure><img src="../../.gitbook/assets/overall-costs-fund-6.png" alt=""><figcaption></figcaption></figure>
 
 ****
 
@@ -55,11 +55,11 @@ Scaled examples to show cost comparisons in different scenarios such as increase
 
 **1 million voters example**
 
-![](../../.gitbook/assets/overall-costs-voter-example.png)
+<figure><img src="../../.gitbook/assets/overall-costs-voter-example.png" alt=""><figcaption></figcaption></figure>
 
 **10,000 proposers example**
 
-![](../../.gitbook/assets/overall-costs-proposer-example.png)
+<figure><img src="../../.gitbook/assets/overall-costs-proposer-example.png" alt=""><figcaption></figcaption></figure>
 
 ### Analysis
 

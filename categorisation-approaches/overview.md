@@ -25,7 +25,7 @@ There four main approaches for categorisations to consider are:
 
 ### Funding categories vs challenge settings
 
-![](../.gitbook/assets/categorisation-approaches-comparison.png)
+<figure><img src="../.gitbook/assets/categorisation-approaches-comparison (1).png" alt=""><figcaption></figcaption></figure>
 
 **Funding categories**
 
