@@ -29,6 +29,7 @@
   * [Using Categories & Challenges](funding-categories-analysis/faqs/using-categories-and-challenges.md)
 * [Scaling Funding Categories](funding-categories-analysis/scaling-funding-categories.md)
 * [Incentives & Game Theory For Open Source Development](funding-categories-analysis/incentives-and-game-theory-for-open-source-development.md)
+* [Community Priorities & Idea Proposal Supply Dynamics](funding-categories-analysis/community-priorities-and-idea-proposal-supply-dynamics.md)
 * [Addressing Concerns & Challenging Funding Situations](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/README.md)
   * [High Proposal Competition](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/high-proposal-competition/README.md)
     * [Proposers With Fewer Resources Considerations](funding-categories-analysis/addressing-concerns-and-challenging-funding-situations/high-proposal-competition/proposers-with-fewer-resources-considerations.md)
