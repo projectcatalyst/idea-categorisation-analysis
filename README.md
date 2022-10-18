@@ -10,14 +10,6 @@ There are a number of issues with the current [challenge setting process](challe
 
 <figure><img src=".gitbook/assets/category-proposals.png" alt=""><figcaption></figcaption></figure>
 
-
-
-**Objective for funding categorisation**
-
-Ensuring there is opportunity for any impactful idea or innovation to be submitted and considered by the voters in each and every funding round.
-
-
-
 ### Contents
 
 * ****[**Categorisation Approaches**](broken-reference) - Analysis looking at the different approaches for funding categorisation and how they impact the funding process to determine which approaches are more desirable.
